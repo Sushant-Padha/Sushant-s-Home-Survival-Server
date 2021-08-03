@@ -1,0 +1,12 @@
+{
+    "profiles": {
+        "Sushant\u0027s Home Survival Server": {
+            "name": "Sushant\u0027s Home Survival Server",
+            "gameDir": "PATH-TO-REPOSITORY\\Sushant\u0027s Home Survival Server",
+            "lastVersionId": "fabric-loader-0.11.6-1.17",
+            "javaDir": "C:\\Program Files\\AdoptOpenJDK\\jdk-16.0.1.9-hotspot\\bin\\javaw.exe",
+            "javaArgs": "-Xmx4096m -Xms256m -XX:PermSize\u003d256m -Dminecraft.applet.TargetDirectory\u003d\"PATH-TO-REPOSITORY\\Sushant\u0027s Home Survival Server\" -Dfml.ignorePatchDiscrepancies\u003dtrue -Dfml.ignoreInvalidMinecraftCertificates\u003dtrue -Duser.language\u003den -Duser.country\u003dUS",
+            "launcherVisibilityOnGameClose": "close launcher when game starts"
+        }
+    }
+}

@@ -11,6 +11,7 @@
 !resourcepacks/*
 !logo.*
 !minecraftinstance.json
+!launcher_profiles.json
 !LICENSE
 !.gitattributes
 !.gitignore
