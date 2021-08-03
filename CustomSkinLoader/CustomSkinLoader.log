@@ -1,0 +1,203 @@
+[2021-08-03 12:45:49] [Render thread INFO] CustomSkinLoader 14.13-SNAPSHOT-282
+[2021-08-03 12:45:49] [Render thread INFO] DataDir: C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader
+[2021-08-03 12:45:49] [Render thread INFO] Operating System: Windows 10 (amd64) version 10.0
+[2021-08-03 12:45:49] [Render thread INFO] Java Version: 16.0.1, AdoptOpenJDK
+[2021-08-03 12:45:49] [Render thread INFO] Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), AdoptOpenJDK
+[2021-08-03 12:45:49] [Render thread INFO] Minecraft: 0.11.6(fabric-loader-0.11.6-1.17)
+[2021-08-03 12:45:49] [Render thread INFO] Config File: C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\CustomSkinLoader.json
+[2021-08-03 12:45:49] [Render thread INFO] Try to load config.
+[2021-08-03 12:45:49] [Render thread INFO] Successfully load config.
+[2021-08-03 12:45:49] [Render thread INFO] Add a profile loader: MojangAPI
+[2021-08-03 12:45:49] [Render thread INFO] Add a profile loader: Legacy
+[2021-08-03 12:45:49] [Render thread INFO] Add a profile loader: CustomSkinAPI
+[2021-08-03 12:45:49] [Render thread INFO] Add a profile loader: CustomSKinAPIPlus
+[2021-08-03 12:45:49] [Render thread INFO] Add a profile loader: UniSkinAPI
+[2021-08-03 12:45:49] [Render thread INFO] Add a profile loader: ElyByAPI
+[2021-08-03 12:45:49] [Render thread INFO] Add a profile loader: GlitchlessAPI
+[2021-08-03 12:45:49] [Render thread INFO] Successfully update config.
+[2021-08-03 12:45:49] [Render thread INFO] version : 14.13
+[2021-08-03 12:45:49] [Render thread INFO] buildNumber : 282
+[2021-08-03 12:45:49] [Render thread INFO] loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littlesk.in/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "http://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }]
+[2021-08-03 12:45:49] [Render thread INFO] enableDynamicSkull : true
+[2021-08-03 12:45:49] [Render thread INFO] enableTransparentSkin : true
+[2021-08-03 12:45:49] [Render thread INFO] forceIgnoreHttpsCertificate : false
+[2021-08-03 12:45:49] [Render thread INFO] forceLoadAllTextures : false
+[2021-08-03 12:45:49] [Render thread INFO] enableCape : true
+[2021-08-03 12:45:49] [Render thread INFO] forceFillSkullNBT : false
+[2021-08-03 12:45:49] [Render thread INFO] threadPoolSize : 3
+[2021-08-03 12:45:49] [Render thread INFO] retryTime : 1
+[2021-08-03 12:45:49] [Render thread INFO] cacheExpiry : 30
+[2021-08-03 12:45:49] [Render thread INFO] forceUpdateSkull : false
+[2021-08-03 12:45:49] [Render thread INFO] enableLocalProfileCache : false
+[2021-08-03 12:45:49] [Render thread INFO] enableCacheAutoClean : false
+[2021-08-03 12:45:49] [Render thread INFO] forceDisableCache : false
+[2021-08-03 12:47:51] [havokwrecker INFO] Loading havokwrecker's profile.
+[2021-08-03 12:47:51] [havokwrecker INFO] 1/7 Try to load profile from 'Mojang'.
+[2021-08-03 12:47:51] [havokwrecker DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2021-08-03 12:47:51] [havokwrecker INFO] Payload: ["havokwrecker"]
+[2021-08-03 12:47:52] [havokwrecker DEBUG] Successfully request (Response Code: 200 , Content Length: 2)
+[2021-08-03 12:47:52] [havokwrecker DEBUG] Content: []
+[2021-08-03 12:47:52] [havokwrecker INFO] Profile not found.(havokwrecker's profile not found.)
+[2021-08-03 12:47:52] [havokwrecker INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2021-08-03 12:47:52] [havokwrecker DEBUG] Try to request 'https://littlesk.in/csl/havokwrecker.json'.
+[2021-08-03 12:48:03] [havokwrecker DEBUG] Failed to request https://littlesk.in/csl/havokwrecker.json (Exception: java.net.SocketTimeoutException: Read timed out)
+[2021-08-03 12:48:03] [havokwrecker DEBUG] Cache file found (Length: 3 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\976b63cffb137b9a158212e0f522899f696bcbeb' , Expire: 0)
+[2021-08-03 12:48:03] [havokwrecker INFO] Try to load from cache 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\976b63cffb137b9a158212e0f522899f696bcbeb'.
+[2021-08-03 12:48:03] [havokwrecker DEBUG] Successfully load from cache
+[2021-08-03 12:48:03] [havokwrecker DEBUG] Content: {}
+
+[2021-08-03 12:48:03] [havokwrecker INFO] Both skin and cape not found.
+[2021-08-03 12:48:03] [havokwrecker INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2021-08-03 12:48:03] [havokwrecker DEBUG] Try to request 'http://skin.prinzeugen.net/havokwrecker.json'.
+[2021-08-03 12:48:03] [havokwrecker DEBUG] Failed to request (Response Code: 404)
+[2021-08-03 12:48:03] [havokwrecker INFO] Profile not found.
+[2021-08-03 12:48:03] [havokwrecker INFO] 4/7 Try to load profile from 'ElyBy'.
+[2021-08-03 12:48:03] [havokwrecker DEBUG] Try to request 'http://skinsystem.ely.by/textures/havokwrecker'.
+[2021-08-03 12:48:04] [havokwrecker DEBUG] Successfully request (Response Code: 200 , Content Length: 83)
+[2021-08-03 12:48:04] [havokwrecker DEBUG] Saved to cache (Length: 83 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\6d4002a6fcf1c84dadae5dc9770d075a2ba790a6' , Expire: 1627975179)
+[2021-08-03 12:48:04] [havokwrecker DEBUG] Content: {"SKIN":{"url":"http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png"}}
+[2021-08-03 12:48:04] [havokwrecker INFO] havokwrecker's profile loaded.
+[2021-08-03 12:48:04] [havokwrecker INFO] (SkinUrl: http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png , Model: default , CapeUrl: null  , Expiry: 1627975114)
+[2021-08-03 12:48:04] [pool-5-thread-1 DEBUG] Try to request 'http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png'.
+[2021-08-03 12:48:04] [pool-5-thread-1 DEBUG] Cache file found (Length: 3908 , Path: 'C:\Users\HP\AppData\Roaming\.minecraft\assets\skins\3a\3a862f362ad232b80e3bec37b4b50424' , Expire: 0)
+[2021-08-03 12:48:04] [Render thread DEBUG] Loading type: SKIN
+[2021-08-03 12:48:04] [Render thread INFO] ThreadDownloadImageData Class: net.minecraft.class_1046
+[2021-08-03 12:51:55] [ayush0708 INFO] Loading ayush0708's profile.
+[2021-08-03 12:51:55] [ayush0708 INFO] 1/7 Try to load profile from 'Mojang'.
+[2021-08-03 12:51:55] [ayush0708 DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2021-08-03 12:51:55] [ayush0708 INFO] Payload: ["ayush0708"]
+[2021-08-03 12:51:56] [ayush0708 DEBUG] Successfully request (Response Code: 200 , Content Length: 2)
+[2021-08-03 12:51:56] [ayush0708 DEBUG] Content: []
+[2021-08-03 12:51:56] [ayush0708 INFO] Profile not found.(ayush0708's profile not found.)
+[2021-08-03 12:51:56] [ayush0708 INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2021-08-03 12:51:56] [ayush0708 DEBUG] Try to request 'https://littlesk.in/csl/ayush0708.json'.
+[2021-08-03 12:52:06] [ayush0708 DEBUG] Failed to request https://littlesk.in/csl/ayush0708.json (Exception: java.net.SocketTimeoutException: Read timed out)
+[2021-08-03 12:52:06] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:52:06] [ayush0708 INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2021-08-03 12:52:06] [ayush0708 DEBUG] Try to request 'http://skin.prinzeugen.net/ayush0708.json'.
+[2021-08-03 12:52:06] [ayush0708 DEBUG] Failed to request (Response Code: 404)
+[2021-08-03 12:52:06] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:52:06] [ayush0708 INFO] 4/7 Try to load profile from 'ElyBy'.
+[2021-08-03 12:52:06] [ayush0708 DEBUG] Try to request 'http://skinsystem.ely.by/textures/ayush0708'.
+[2021-08-03 12:52:06] [ayush0708 DEBUG] Cache file found (Length: 0 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\e4b937a3ba73e5794a873ffa4f47153ec9d5fc6c' , Expire: 1627977796)
+[2021-08-03 12:52:06] [ayush0708 INFO] Try to load from cache 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\e4b937a3ba73e5794a873ffa4f47153ec9d5fc6c'.
+[2021-08-03 12:52:06] [ayush0708 DEBUG] Successfully load from cache
+[2021-08-03 12:52:06] [ayush0708 DEBUG] Content: 
+[2021-08-03 12:52:06] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:52:06] [ayush0708 INFO] 5/7 Try to load profile from 'SkinMe'.
+[2021-08-03 12:52:06] [ayush0708 DEBUG] Try to request 'http://www.skinme.cc/uniskin/ayush0708.json'.
+[2021-08-03 12:52:08] [ayush0708 DEBUG] Successfully request (Response Code: 200 , Content Length: 37)
+[2021-08-03 12:52:08] [ayush0708 DEBUG] Saved to cache (Length: 37 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\27226edd8f24f80bdadcdc2c9a930a349135d5ef' , Expire: 1627975420)
+[2021-08-03 12:52:08] [ayush0708 DEBUG] Content: {"errno":404,"msg":"User not found."}
+[2021-08-03 12:52:08] [ayush0708 INFO] Error 404: User not found.
+[2021-08-03 12:52:08] [ayush0708 INFO] 6/7 Try to load profile from 'LocalSkin'.
+[2021-08-03 12:52:08] [ayush0708 INFO] Both skin and cape not found.
+[2021-08-03 12:52:08] [ayush0708 INFO] 7/7 Try to load profile from 'GlitchlessGames'.
+[2021-08-03 12:52:08] [ayush0708 DEBUG] Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=ayush0708'.
+[2021-08-03 12:52:09] [ayush0708 DEBUG] Failed to request (Response Code: 404)
+[2021-08-03 12:52:09] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:52:09] [ayush0708 INFO] ayush0708's profile not found in load list.
+[2021-08-03 12:52:50] [ayush0708 INFO] Loading ayush0708's profile.
+[2021-08-03 12:52:50] [ayush0708 INFO] 1/7 Try to load profile from 'Mojang'.
+[2021-08-03 12:52:50] [ayush0708 DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2021-08-03 12:52:50] [ayush0708 INFO] Payload: ["ayush0708"]
+[2021-08-03 12:52:51] [ayush0708 DEBUG] Successfully request (Response Code: 200 , Content Length: 2)
+[2021-08-03 12:52:51] [ayush0708 DEBUG] Content: []
+[2021-08-03 12:52:51] [ayush0708 INFO] Profile not found.(ayush0708's profile not found.)
+[2021-08-03 12:52:51] [ayush0708 INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2021-08-03 12:52:51] [ayush0708 DEBUG] Try to request 'https://littlesk.in/csl/ayush0708.json'.
+[2021-08-03 12:52:55] [ayush0708 INFO] Cached profile will be used.
+[2021-08-03 12:52:55] [ayush0708 WARNING] (!Cached Profile is empty!) Expiry:0
+[2021-08-03 12:52:55] [ayush0708 INFO] Loading ayush0708's profile.
+[2021-08-03 12:52:55] [ayush0708 INFO] 1/7 Try to load profile from 'Mojang'.
+[2021-08-03 12:52:55] [ayush0708 DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2021-08-03 12:52:55] [ayush0708 INFO] Payload: ["ayush0708"]
+[2021-08-03 12:52:56] [ayush0708 DEBUG] Successfully request (Response Code: 200 , Content Length: 2)
+[2021-08-03 12:52:56] [ayush0708 DEBUG] Content: []
+[2021-08-03 12:52:56] [ayush0708 INFO] Profile not found.(ayush0708's profile not found.)
+[2021-08-03 12:52:56] [ayush0708 INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2021-08-03 12:52:56] [ayush0708 DEBUG] Try to request 'https://littlesk.in/csl/ayush0708.json'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Failed to request https://littlesk.in/csl/ayush0708.json (Exception: java.net.SocketTimeoutException: Read timed out)
+[2021-08-03 12:53:01] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:53:01] [ayush0708 INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Try to request 'http://skin.prinzeugen.net/ayush0708.json'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Failed to request (Response Code: 404)
+[2021-08-03 12:53:01] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:53:01] [ayush0708 INFO] 4/7 Try to load profile from 'ElyBy'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Try to request 'http://skinsystem.ely.by/textures/ayush0708'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Cache file found (Length: 0 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\e4b937a3ba73e5794a873ffa4f47153ec9d5fc6c' , Expire: 1627977796)
+[2021-08-03 12:53:01] [ayush0708 INFO] Try to load from cache 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\e4b937a3ba73e5794a873ffa4f47153ec9d5fc6c'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Successfully load from cache
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Content: 
+[2021-08-03 12:53:01] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:53:01] [ayush0708 INFO] 5/7 Try to load profile from 'SkinMe'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Try to request 'http://www.skinme.cc/uniskin/ayush0708.json'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Cache file found (Length: 37 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\27226edd8f24f80bdadcdc2c9a930a349135d5ef' , Expire: 1627975420)
+[2021-08-03 12:53:01] [ayush0708 INFO] Try to load from cache 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\27226edd8f24f80bdadcdc2c9a930a349135d5ef'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Successfully load from cache
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Content: {"errno":404,"msg":"User not found."}
+[2021-08-03 12:53:01] [ayush0708 INFO] Error 404: User not found.
+[2021-08-03 12:53:01] [ayush0708 INFO] 6/7 Try to load profile from 'LocalSkin'.
+[2021-08-03 12:53:01] [ayush0708 INFO] Both skin and cape not found.
+[2021-08-03 12:53:01] [ayush0708 INFO] 7/7 Try to load profile from 'GlitchlessGames'.
+[2021-08-03 12:53:01] [ayush0708 DEBUG] Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=ayush0708'.
+[2021-08-03 12:53:02] [ayush0708 DEBUG] Failed to request (Response Code: 404)
+[2021-08-03 12:53:02] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:53:02] [ayush0708 INFO] ayush0708's profile not found in load list.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Failed to request https://littlesk.in/csl/ayush0708.json (Exception: java.net.SocketTimeoutException: Read timed out)
+[2021-08-03 12:53:06] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:53:06] [ayush0708 INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Try to request 'http://skin.prinzeugen.net/ayush0708.json'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Failed to request (Response Code: 404)
+[2021-08-03 12:53:06] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:53:06] [ayush0708 INFO] 4/7 Try to load profile from 'ElyBy'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Try to request 'http://skinsystem.ely.by/textures/ayush0708'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Cache file found (Length: 0 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\e4b937a3ba73e5794a873ffa4f47153ec9d5fc6c' , Expire: 1627977796)
+[2021-08-03 12:53:06] [ayush0708 INFO] Try to load from cache 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\e4b937a3ba73e5794a873ffa4f47153ec9d5fc6c'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Successfully load from cache
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Content: 
+[2021-08-03 12:53:06] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:53:06] [ayush0708 INFO] 5/7 Try to load profile from 'SkinMe'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Try to request 'http://www.skinme.cc/uniskin/ayush0708.json'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Cache file found (Length: 37 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\27226edd8f24f80bdadcdc2c9a930a349135d5ef' , Expire: 1627975420)
+[2021-08-03 12:53:06] [ayush0708 INFO] Try to load from cache 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\27226edd8f24f80bdadcdc2c9a930a349135d5ef'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Successfully load from cache
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Content: {"errno":404,"msg":"User not found."}
+[2021-08-03 12:53:06] [ayush0708 INFO] Error 404: User not found.
+[2021-08-03 12:53:06] [ayush0708 INFO] 6/7 Try to load profile from 'LocalSkin'.
+[2021-08-03 12:53:06] [ayush0708 INFO] Both skin and cape not found.
+[2021-08-03 12:53:06] [ayush0708 INFO] 7/7 Try to load profile from 'GlitchlessGames'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=ayush0708'.
+[2021-08-03 12:53:06] [ayush0708 DEBUG] Failed to request (Response Code: 404)
+[2021-08-03 12:53:06] [ayush0708 INFO] Profile not found.
+[2021-08-03 12:53:06] [ayush0708 INFO] ayush0708's profile not found in load list.
+[2021-08-03 12:58:14] [havokwrecker INFO] Loading havokwrecker's profile.
+[2021-08-03 12:58:14] [havokwrecker INFO] 1/7 Try to load profile from 'Mojang'.
+[2021-08-03 12:58:14] [havokwrecker DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2021-08-03 12:58:14] [havokwrecker INFO] Payload: ["havokwrecker"]
+[2021-08-03 12:58:15] [havokwrecker DEBUG] Successfully request (Response Code: 200 , Content Length: 2)
+[2021-08-03 12:58:15] [havokwrecker DEBUG] Content: []
+[2021-08-03 12:58:15] [havokwrecker INFO] Profile not found.(havokwrecker's profile not found.)
+[2021-08-03 12:58:15] [havokwrecker INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2021-08-03 12:58:15] [havokwrecker DEBUG] Try to request 'https://littlesk.in/csl/havokwrecker.json'.
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Failed to request https://littlesk.in/csl/havokwrecker.json (Exception: java.net.SocketTimeoutException: Read timed out)
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Cache file found (Length: 3 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\976b63cffb137b9a158212e0f522899f696bcbeb' , Expire: 0)
+[2021-08-03 12:58:27] [havokwrecker INFO] Try to load from cache 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\976b63cffb137b9a158212e0f522899f696bcbeb'.
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Successfully load from cache
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Content: {}
+
+[2021-08-03 12:58:27] [havokwrecker INFO] Both skin and cape not found.
+[2021-08-03 12:58:27] [havokwrecker INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Try to request 'http://skin.prinzeugen.net/havokwrecker.json'.
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Failed to request (Response Code: 404)
+[2021-08-03 12:58:27] [havokwrecker INFO] Profile not found.
+[2021-08-03 12:58:27] [havokwrecker INFO] 4/7 Try to load profile from 'ElyBy'.
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Try to request 'http://skinsystem.ely.by/textures/havokwrecker'.
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Successfully request (Response Code: 200 , Content Length: 83)
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Saved to cache (Length: 83 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant's Home Survival Server\CustomSkinLoader\caches\6d4002a6fcf1c84dadae5dc9770d075a2ba790a6' , Expire: 1627975802)
+[2021-08-03 12:58:27] [havokwrecker DEBUG] Content: {"SKIN":{"url":"http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png"}}
+[2021-08-03 12:58:27] [havokwrecker INFO] havokwrecker's profile loaded.
+[2021-08-03 12:58:27] [havokwrecker INFO] (SkinUrl: http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png , Model: default , CapeUrl: null  , Expiry: 1627975737)
+[2021-08-03 12:58:27] [pool-5-thread-2 DEBUG] Try to request 'http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png'.
+[2021-08-03 12:58:27] [pool-5-thread-2 DEBUG] Cache file found (Length: 3908 , Path: 'C:\Users\HP\AppData\Roaming\.minecraft\assets\skins\3a\3a862f362ad232b80e3bec37b4b50424' , Expire: 0)
+[2021-08-03 12:58:27] [Render thread DEBUG] Loading type: SKIN
