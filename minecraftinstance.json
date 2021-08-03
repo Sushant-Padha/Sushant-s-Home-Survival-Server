@@ -807,523 +807,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 322385,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3386848,
-        "displayName": " OptiFabric-v1.11.18",
-        "fileName": "optifabric-1.11.18.jar",
-        "fileDate": "2021-07-13T01:42:43.123Z",
-        "fileLength": 390912,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3386/848/optifabric-1.11.18.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 2980605036,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.voxelmap.mixins.json",
-            "fingerprint": 921924187,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.stacc.mixins.json",
-            "fingerprint": 2558536793,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.multiconnect.mixins.json",
-            "fingerprint": 3562634813,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.age-of-exile.mixins.json",
-            "fingerprint": 2214852529,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.indigo.extra-mixins.json",
-            "fingerprint": 4100925073,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.pswg.mixins.json",
-            "fingerprint": 3536650009,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.fabric-rendering.mixins.json",
-            "fingerprint": 782311859,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.architectury-A.mixins.json",
-            "fingerprint": 4191832628,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.aether.mixins.json",
-            "fingerprint": 2270593934,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.full-slabs.mixins.json",
-            "fingerprint": 2647723399,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.dawn.mixins.json",
-            "fingerprint": 407679083,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.images-old.mixins.json",
-            "fingerprint": 2019084541,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.frex-old.mixins.json",
-            "fingerprint": 4104716765,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.amecsapi.mixins.json",
-            "fingerprint": 1671746217,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.replaymod.mixins.json",
-            "fingerprint": 2368247989,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.stacc.old-mixins.json",
-            "fingerprint": 1584182467,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3396738474,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 2349587421,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.cloth.mixins.json",
-            "fingerprint": 3451790143,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.cloth.new-mixins.json",
-            "fingerprint": 2608721463,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.fabric-screen-api.mixins.json",
-            "fingerprint": 3037154366,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.astromine.mixins.json",
-            "fingerprint": 792075554,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.chat-heads.mixins.json",
-            "fingerprint": 2053380152,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.frex.mixins.json",
-            "fingerprint": 4060875494,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.carpet.extra-mixins.json",
-            "fingerprint": 698192282,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.cullparticles.mixins.json",
-            "fingerprint": 2057672327,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.charm-older.mixins.json",
-            "fingerprint": 2676039893,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.smooth-chunks.mixins.json",
-            "fingerprint": 436436766,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.origins.mixins.json",
-            "fingerprint": 2591584956,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.charm.mixins.json",
-            "fingerprint": 3525900082,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.phormat.mixins.json",
-            "fingerprint": 2413510365,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.carpet.mixins.json",
-            "fingerprint": 4031262475,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.clothesline.mixins.json",
-            "fingerprint": 3134203984,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.replaymod.new-mixins.json",
-            "fingerprint": 3498746176,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.hctm.mixins.json",
-            "fingerprint": 2250524111,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.charm-plus.mixins.json",
-            "fingerprint": 343515916,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.architectury-AB.new-mixins.json",
-            "fingerprint": 1980636425,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.mixins.json",
-            "fingerprint": 3410384977,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.fabric-rendering-data.mixins.json",
-            "fingerprint": 1630844722,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.staffofbuilding.mixins.json",
-            "fingerprint": 68076731,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.fabric-item-api.mixins.json",
-            "fingerprint": 1324010208,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.fabric-screen-api.new-mixins.json",
-            "fingerprint": 774447356,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.enhancedcelestials.mixins.json",
-            "fingerprint": 1413526070,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.charm-old.mixins.json",
-            "fingerprint": 890788096,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.pswg.extra-mixins.json",
-            "fingerprint": 1254466233,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.trumpet-skeleton.mixins.json",
-            "fingerprint": 1628319394,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.architectury-B.mixins.json",
-            "fingerprint": 2600162117,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.now-playing.mixins.json",
-            "fingerprint": 4271652031,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.optifine.mixins.json",
-            "fingerprint": 1689534057,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.origins.extra-mixins.json",
-            "fingerprint": 2040258985,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.ae2.mixins.json",
-            "fingerprint": 3515175361,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.indigo.mixins.json",
-            "fingerprint": 2774755147,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.sandwichable-old.mixins.json",
-            "fingerprint": 1629818639,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.dawn.older-mixins.json",
-            "fingerprint": 4024787618,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.sandwichable.mixins.json",
-            "fingerprint": 1909514822,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.dawn.old-mixins.json",
-            "fingerprint": 1766753685,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.mubble.mixins.json",
-            "fingerprint": 271783100,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.apoli.mixins.json",
-            "fingerprint": 3227040356,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.images-older.mixins.json",
-            "fingerprint": 2049298652,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.images.mixins.json",
-            "fingerprint": 2713587341,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.bannerpp.mixins.json",
-            "fingerprint": 1879518574,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.custom-fog.mixins.json",
-            "fingerprint": 2481315092,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric.compat.fabric-renderer-api.mixins.json",
-            "fingerprint": 2054275023,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "optifabric-refmap.json",
-            "fingerprint": 2665857460,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "META-INF",
-            "fingerprint": 904587292,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "me",
-            "fingerprint": 2273786633,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1201723031,
-        "gameVersion": [
-          "1.17.1",
-          "1.16.3",
-          "1.16.1",
-          "1.17",
-          "Fabric",
-          "1.16.5",
-          "1.17-Snapshot",
-          "1.16.4",
-          "1.16.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000017.0000000001",
-            "gameVersion": "1.17.1",
-            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
-            "gameVersionName": "1.17.1"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000003",
-            "gameVersion": "1.16.3",
-            "gameVersionReleaseDate": "2020-09-10T14:44:20.443Z",
-            "gameVersionName": "1.16.3"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000001",
-            "gameVersion": "1.16.1",
-            "gameVersionReleaseDate": "2020-06-24T12:41:11.823Z",
-            "gameVersionName": "1.16.1"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-            "gameVersionName": "1.17"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000005",
-            "gameVersion": "1.16.5",
-            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-            "gameVersionName": "1.16.5"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2021-03-18T00:00:00Z",
-            "gameVersionName": "1.17-Snapshot"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000004",
-            "gameVersion": "1.16.4",
-            "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
-            "gameVersionName": "1.16.4"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000002",
-            "gameVersion": "1.16.2",
-            "gameVersionReleaseDate": "2020-08-11T16:42:21.863Z",
-            "gameVersionName": "1.16.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2406485,
-        "projectId": 322385,
-        "packageFingerprintId": 704679558,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 3127523,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "optifabric-1.11.18.jar"
-      },
-      "dateInstalled": "2021-08-03T07:57:54.9094023Z",
-      "dateUpdated": "2021-08-03T07:57:54.9094023Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 476922,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -2480,24 +1963,6 @@
       "dateInstalled": "2021-08-03T07:57:54.8965672Z",
       "dateUpdated": "2021-08-03T07:57:54.8965672Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 317756,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": null,
-      "dateInstalled": "2021-08-03T13:58:41.2120415Z",
-      "dateUpdated": "2021-08-03T13:58:41.2150348Z",
-      "dateLastUpdateAttempted": "2021-08-03T13:58:41.2150348Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -4022,120 +3487,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 428912,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3344158,
-        "displayName": "Krypton 0.1.3",
-        "fileName": "krypton-0.1.3.jar",
-        "fileDate": "2021-06-08T20:56:54.373Z",
-        "fileLength": 127244,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3344/158/krypton-0.1.3.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1552463068,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 2226923820,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "krypton.mixins.json",
-            "fingerprint": 2638190455,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "krypton.accesswidener",
-            "fingerprint": 2519871301,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1700254508,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1271844831,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "krypton-refmap.json",
-            "fingerprint": 1465658192,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "me",
-            "fingerprint": 609617413,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 479518788,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-            "gameVersionName": "1.17"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2352760,
-        "projectId": 428912,
-        "packageFingerprintId": 679345519,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3048414,
-        "gameVersionId": 7499,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "krypton-0.1.3.jar"
-      },
-      "dateInstalled": "2021-08-03T07:57:53.6073048Z",
-      "dateUpdated": "2021-08-03T07:57:53.6073048Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 409184,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -4264,6 +3615,120 @@
       },
       "dateInstalled": "2021-08-03T07:36:17.864616Z",
       "dateUpdated": "2021-08-03T07:36:17.864616Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 428912,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3344158,
+        "displayName": "Krypton 0.1.3",
+        "fileName": "krypton-0.1.3.jar",
+        "fileDate": "2021-06-08T20:56:54.373Z",
+        "fileLength": 127244,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3344/158/krypton-0.1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1552463068,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2226923820,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "krypton.mixins.json",
+            "fingerprint": 2638190455,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "krypton.accesswidener",
+            "fingerprint": 2519871301,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1700254508,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1271844831,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "krypton-refmap.json",
+            "fingerprint": 1465658192,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 609617413,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 479518788,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+            "gameVersionName": "1.17"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2352760,
+        "projectId": 428912,
+        "packageFingerprintId": 679345519,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3048414,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "krypton-0.1.3.jar"
+      },
+      "dateInstalled": "2021-08-03T07:57:53.6073048Z",
+      "dateUpdated": "2021-08-03T07:57:53.6073048Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
@@ -5010,6 +4475,104 @@
       "installedTargets": null
     },
     {
+      "addonID": 432493,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3376795,
+        "displayName": "0.5.0+1.17",
+        "fileName": "ctm-fabric-0.5.0+1.17.jar",
+        "fileDate": "2021-07-04T23:56:18.117Z",
+        "fileLength": 190060,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3376/795/ctm-fabric-0.5.0+1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_ctm-fabric",
+            "fingerprint": 3804980824,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3667403727,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ctm.mixins.json",
+            "fingerprint": 3174142346,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3488580959,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ctm-fabric-refmap.json",
+            "fingerprint": 1927893894,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "team",
+            "fingerprint": 161864328,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2599718329,
+        "gameVersion": [
+          "1.17.1",
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ctm-fabric-0.5.0+1.17.jar"
+      },
+      "dateInstalled": "2021-08-03T17:30:22.4065172Z",
+      "dateUpdated": "2021-08-03T17:30:22.4095021Z",
+      "dateLastUpdateAttempted": "2021-08-03T17:30:22.4095021Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 319057,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -5116,6 +4679,97 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 356461,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3344180,
+        "displayName": "[1.17] logical_zoom-0.0.9.jar",
+        "fileName": "logical_zoom-0.0.9.jar",
+        "fileDate": "2021-06-08T21:12:33.29Z",
+        "fileLength": 120160,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3344/180/logical_zoom-0.0.9.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logical_zoom.client-mixins.json",
+            "fingerprint": 4045810311,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3697741054,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1603772730,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logical_zoom-refmap.json",
+            "fingerprint": 945858355,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2230310140,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 441256229,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "logical_zoom-0.0.9.jar"
+      },
+      "dateInstalled": "2021-08-03T17:30:08.2740097Z",
+      "dateUpdated": "2021-08-03T17:30:08.2879255Z",
+      "dateLastUpdateAttempted": "2021-08-03T17:30:08.2879255Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 351393,
@@ -5361,41 +5015,29 @@
       "installedTargets": null
     },
     {
-      "addonID": 412225,
+      "addonID": 360438,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
-        "id": 3350526,
-        "displayName": "Harvest Scythes 2.0.5 - 1.17",
-        "fileName": "wraith-harvestscythes-2.0.5.jar",
-        "fileDate": "2021-06-13T16:35:20.73Z",
-        "fileLength": 273900,
+        "id": 3380166,
+        "displayName": "Lithium mc1.17.1-0.7.3",
+        "fileName": "lithium-fabric-mc1.17.1-0.7.3.jar",
+        "fileDate": "2021-07-07T15:25:26.607Z",
+        "fileLength": 413358,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3350/526/wraith-harvestscythes-2.0.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3380/166/lithium-fabric-mc1.17.1-0.7.3.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 377284,
+            "addonId": 394468,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 424480,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 361599,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 427177,
+            "addonId": 372124,
             "type": 2,
             "fileId": 0
           }
@@ -5403,50 +5045,57 @@
         "isAvailable": true,
         "modules": [
           {
+            "foldername": "LICENSE.txt",
+            "fingerprint": 1136524626,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "META-INF",
             "fingerprint": 2464251221,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "LICENSE_wraith-harvestscythes",
-            "fingerprint": 3029671824,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "harvestscythes.mixins.json",
-            "fingerprint": 1575003178,
+            "foldername": "assets",
+            "fingerprint": 1769415467,
             "type": 0,
             "invalidFingerprint": false
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 3871382115,
+            "fingerprint": 1007183075,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "assets",
-            "fingerprint": 1147835426,
+            "foldername": "lithium.accesswidener",
+            "fingerprint": 1137321595,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "wraith-harvestscythes-refmap.json",
-            "fingerprint": 3007966290,
+            "foldername": "lithium.mixins.json",
+            "fingerprint": 2568808942,
             "type": 0,
             "invalidFingerprint": false
           },
           {
-            "foldername": "wraith",
-            "fingerprint": 1915791842,
+            "foldername": "me",
+            "fingerprint": 93676896,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.lithium.refmap.json",
+            "fingerprint": 2281028840,
             "type": 0,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2832646669,
+        "packageFingerprint": 1898131449,
         "gameVersion": [
+          "1.17.1",
           "1.17",
           "Fabric"
         ],
@@ -5459,11 +5108,11 @@
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "wraith-harvestscythes-2.0.5.jar"
+        "FileNameOnDisk": "lithium-fabric-mc1.17.1-0.7.3.jar"
       },
-      "dateInstalled": "2021-08-03T14:02:49.5685137Z",
-      "dateUpdated": "2021-08-03T14:02:49.5715032Z",
-      "dateLastUpdateAttempted": "2021-08-03T14:02:49.5715032Z",
+      "dateInstalled": "2021-08-03T17:06:04.8305647Z",
+      "dateUpdated": "2021-08-03T17:06:04.8490082Z",
+      "dateLastUpdateAttempted": "2021-08-03T17:06:04.8490082Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
