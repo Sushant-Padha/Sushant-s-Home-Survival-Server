@@ -1,0 +1,17 @@
+*
+*.*
+*/
+*/*
+
+!mods/
+!mods/*
+!config/
+!config/*
+!resourcepacks/
+!resourcepacks/*
+!logo.*
+!minecraftinstance.json
+!LICENSE
+!.gitattributes
+!.gitignore
+!README*
