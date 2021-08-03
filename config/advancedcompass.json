@@ -1,0 +1,21 @@
+{
+  "y_offset": 4,
+  "max_distance": 50,
+  "group_radius": 10,
+  "move_bossbar": true,
+  "group_entities": true,
+  "show_distance": true,
+  "show_players": true,
+  "view_angle": 70,
+  "angle_threshold": 90,
+  "overlap_threshold": 4,
+  "hide_overlapped": true,
+  "auto_death_waypoint": true,
+  "show_mode": "ALWAYS_ON",
+  "coordinates_mode": "OFF",
+  "generation_type": "HEAD_FIRST",
+  "coordinates_scale": 100,
+  "compass_width": 412,
+  "compass_height": 22,
+  "icon_scale": 100
+}
