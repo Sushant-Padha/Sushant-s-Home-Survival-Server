@@ -1,64 +1,64 @@
-[2021-08-03 18:46:09] [Render thread INFO] CustomSkinLoader 14.13-SNAPSHOT-282
-[2021-08-03 18:46:09] [Render thread INFO] DataDir: C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader
-[2021-08-03 18:46:09] [Render thread INFO] Operating System: Windows 10 (amd64) version 10.0
-[2021-08-03 18:46:09] [Render thread INFO] Java Version: 16.0.1, AdoptOpenJDK
-[2021-08-03 18:46:09] [Render thread INFO] Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), AdoptOpenJDK
-[2021-08-03 18:46:09] [Render thread INFO] Minecraft: 0.11.6(fabric-loader-0.11.6-1.17)
-[2021-08-03 18:46:09] [Render thread INFO] Config File: C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader\CustomSkinLoader.json
-[2021-08-03 18:46:09] [Render thread INFO] Try to load config.
-[2021-08-03 18:46:09] [Render thread INFO] Successfully load config.
-[2021-08-03 18:46:09] [Render thread INFO] Add a profile loader: MojangAPI
-[2021-08-03 18:46:09] [Render thread INFO] Add a profile loader: Legacy
-[2021-08-03 18:46:09] [Render thread INFO] Add a profile loader: CustomSkinAPI
-[2021-08-03 18:46:09] [Render thread INFO] Add a profile loader: CustomSKinAPIPlus
-[2021-08-03 18:46:09] [Render thread INFO] Add a profile loader: UniSkinAPI
-[2021-08-03 18:46:09] [Render thread INFO] Add a profile loader: ElyByAPI
-[2021-08-03 18:46:09] [Render thread INFO] Add a profile loader: GlitchlessAPI
-[2021-08-03 18:46:09] [Render thread INFO] Successfully update config.
-[2021-08-03 18:46:09] [Render thread INFO] version : 14.13
-[2021-08-03 18:46:09] [Render thread INFO] buildNumber : 282
-[2021-08-03 18:46:09] [Render thread INFO] loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littlesk.in/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "http://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }]
-[2021-08-03 18:46:09] [Render thread INFO] enableDynamicSkull : true
-[2021-08-03 18:46:09] [Render thread INFO] enableTransparentSkin : true
-[2021-08-03 18:46:09] [Render thread INFO] forceIgnoreHttpsCertificate : false
-[2021-08-03 18:46:09] [Render thread INFO] forceLoadAllTextures : false
-[2021-08-03 18:46:09] [Render thread INFO] enableCape : true
-[2021-08-03 18:46:09] [Render thread INFO] forceFillSkullNBT : false
-[2021-08-03 18:46:09] [Render thread INFO] threadPoolSize : 3
-[2021-08-03 18:46:09] [Render thread INFO] retryTime : 1
-[2021-08-03 18:46:09] [Render thread INFO] cacheExpiry : 30
-[2021-08-03 18:46:09] [Render thread INFO] forceUpdateSkull : false
-[2021-08-03 18:46:09] [Render thread INFO] enableLocalProfileCache : false
-[2021-08-03 18:46:09] [Render thread INFO] enableCacheAutoClean : false
-[2021-08-03 18:46:09] [Render thread INFO] forceDisableCache : false
-[2021-08-03 18:48:22] [havokwrecker INFO] Loading havokwrecker's profile.
-[2021-08-03 18:48:22] [havokwrecker INFO] 1/7 Try to load profile from 'Mojang'.
-[2021-08-03 18:48:22] [havokwrecker DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2021-08-03 18:48:22] [havokwrecker INFO] Payload: ["havokwrecker"]
-[2021-08-03 18:48:23] [havokwrecker DEBUG] Successfully request (Response Code: 200 , Content Length: 2)
-[2021-08-03 18:48:23] [havokwrecker DEBUG] Content: []
-[2021-08-03 18:48:23] [havokwrecker INFO] Profile not found.(havokwrecker's profile not found.)
-[2021-08-03 18:48:23] [havokwrecker INFO] 2/7 Try to load profile from 'LittleSkin'.
-[2021-08-03 18:48:23] [havokwrecker DEBUG] Try to request 'https://littlesk.in/csl/havokwrecker.json'.
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Failed to request https://littlesk.in/csl/havokwrecker.json (Exception: java.net.SocketTimeoutException: Read timed out)
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Cache file found (Length: 3 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader\caches\976b63cffb137b9a158212e0f522899f696bcbeb' , Expire: 0)
-[2021-08-03 18:48:33] [havokwrecker INFO] Try to load from cache 'C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader\caches\976b63cffb137b9a158212e0f522899f696bcbeb'.
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Successfully load from cache
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Content: {}
+[2021-08-03 19:41:25] [Render thread INFO] CustomSkinLoader 14.13-SNAPSHOT-282
+[2021-08-03 19:41:25] [Render thread INFO] DataDir: C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader
+[2021-08-03 19:41:25] [Render thread INFO] Operating System: Windows 10 (amd64) version 10.0
+[2021-08-03 19:41:25] [Render thread INFO] Java Version: 16.0.1, AdoptOpenJDK
+[2021-08-03 19:41:25] [Render thread INFO] Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), AdoptOpenJDK
+[2021-08-03 19:41:25] [Render thread INFO] Minecraft: 0.11.6(fabric-loader-0.11.6-1.17)
+[2021-08-03 19:41:25] [Render thread INFO] Config File: C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader\CustomSkinLoader.json
+[2021-08-03 19:41:25] [Render thread INFO] Try to load config.
+[2021-08-03 19:41:25] [Render thread INFO] Successfully load config.
+[2021-08-03 19:41:25] [Render thread INFO] Add a profile loader: MojangAPI
+[2021-08-03 19:41:25] [Render thread INFO] Add a profile loader: Legacy
+[2021-08-03 19:41:25] [Render thread INFO] Add a profile loader: CustomSkinAPI
+[2021-08-03 19:41:25] [Render thread INFO] Add a profile loader: CustomSKinAPIPlus
+[2021-08-03 19:41:25] [Render thread INFO] Add a profile loader: UniSkinAPI
+[2021-08-03 19:41:25] [Render thread INFO] Add a profile loader: ElyByAPI
+[2021-08-03 19:41:25] [Render thread INFO] Add a profile loader: GlitchlessAPI
+[2021-08-03 19:41:25] [Render thread INFO] Successfully update config.
+[2021-08-03 19:41:25] [Render thread INFO] version : 14.13
+[2021-08-03 19:41:25] [Render thread INFO] buildNumber : 282
+[2021-08-03 19:41:25] [Render thread INFO] loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littlesk.in/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "http://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }]
+[2021-08-03 19:41:25] [Render thread INFO] enableDynamicSkull : true
+[2021-08-03 19:41:25] [Render thread INFO] enableTransparentSkin : true
+[2021-08-03 19:41:25] [Render thread INFO] forceIgnoreHttpsCertificate : false
+[2021-08-03 19:41:25] [Render thread INFO] forceLoadAllTextures : false
+[2021-08-03 19:41:25] [Render thread INFO] enableCape : true
+[2021-08-03 19:41:25] [Render thread INFO] forceFillSkullNBT : false
+[2021-08-03 19:41:25] [Render thread INFO] threadPoolSize : 3
+[2021-08-03 19:41:25] [Render thread INFO] retryTime : 1
+[2021-08-03 19:41:25] [Render thread INFO] cacheExpiry : 30
+[2021-08-03 19:41:25] [Render thread INFO] forceUpdateSkull : false
+[2021-08-03 19:41:25] [Render thread INFO] enableLocalProfileCache : false
+[2021-08-03 19:41:25] [Render thread INFO] enableCacheAutoClean : false
+[2021-08-03 19:41:25] [Render thread INFO] forceDisableCache : false
+[2021-08-03 19:43:25] [havokwrecker INFO] Loading havokwrecker's profile.
+[2021-08-03 19:43:25] [havokwrecker INFO] 1/7 Try to load profile from 'Mojang'.
+[2021-08-03 19:43:25] [havokwrecker DEBUG] Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2021-08-03 19:43:25] [havokwrecker INFO] Payload: ["havokwrecker"]
+[2021-08-03 19:43:26] [havokwrecker DEBUG] Successfully request (Response Code: 200 , Content Length: 2)
+[2021-08-03 19:43:26] [havokwrecker DEBUG] Content: []
+[2021-08-03 19:43:26] [havokwrecker INFO] Profile not found.(havokwrecker's profile not found.)
+[2021-08-03 19:43:26] [havokwrecker INFO] 2/7 Try to load profile from 'LittleSkin'.
+[2021-08-03 19:43:26] [havokwrecker DEBUG] Try to request 'https://littlesk.in/csl/havokwrecker.json'.
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Failed to request https://littlesk.in/csl/havokwrecker.json (Exception: java.net.SocketTimeoutException: Read timed out)
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Cache file found (Length: 3 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader\caches\976b63cffb137b9a158212e0f522899f696bcbeb' , Expire: 0)
+[2021-08-03 19:43:36] [havokwrecker INFO] Try to load from cache 'C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader\caches\976b63cffb137b9a158212e0f522899f696bcbeb'.
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Successfully load from cache
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Content: {}
 
-[2021-08-03 18:48:33] [havokwrecker INFO] Both skin and cape not found.
-[2021-08-03 18:48:33] [havokwrecker INFO] 3/7 Try to load profile from 'BlessingSkin'.
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Try to request 'http://skin.prinzeugen.net/havokwrecker.json'.
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Failed to request (Response Code: 404)
-[2021-08-03 18:48:33] [havokwrecker INFO] Profile not found.
-[2021-08-03 18:48:33] [havokwrecker INFO] 4/7 Try to load profile from 'ElyBy'.
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Try to request 'http://skinsystem.ely.by/textures/havokwrecker'.
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Successfully request (Response Code: 200 , Content Length: 83)
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Saved to cache (Length: 83 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader\caches\6d4002a6fcf1c84dadae5dc9770d075a2ba790a6' , Expire: 1627996804)
-[2021-08-03 18:48:33] [havokwrecker DEBUG] Content: {"SKIN":{"url":"http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png"}}
-[2021-08-03 18:48:33] [havokwrecker INFO] havokwrecker's profile loaded.
-[2021-08-03 18:48:33] [havokwrecker INFO] (SkinUrl: http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png , Model: default , CapeUrl: null  , Expiry: 1627996743)
-[2021-08-03 18:48:33] [pool-5-thread-1 DEBUG] Try to request 'http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png'.
-[2021-08-03 18:48:33] [pool-5-thread-1 DEBUG] Cache file found (Length: 3908 , Path: 'C:\Users\HP\AppData\Roaming\.minecraft\assets\skins\3a\3a862f362ad232b80e3bec37b4b50424' , Expire: 0)
-[2021-08-03 18:48:33] [Render thread DEBUG] Loading type: SKIN
-[2021-08-03 18:48:33] [Render thread INFO] ThreadDownloadImageData Class: net.minecraft.class_1046
+[2021-08-03 19:43:36] [havokwrecker INFO] Both skin and cape not found.
+[2021-08-03 19:43:36] [havokwrecker INFO] 3/7 Try to load profile from 'BlessingSkin'.
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Try to request 'http://skin.prinzeugen.net/havokwrecker.json'.
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Failed to request (Response Code: 404)
+[2021-08-03 19:43:36] [havokwrecker INFO] Profile not found.
+[2021-08-03 19:43:36] [havokwrecker INFO] 4/7 Try to load profile from 'ElyBy'.
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Try to request 'http://skinsystem.ely.by/textures/havokwrecker'.
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Successfully request (Response Code: 200 , Content Length: 83)
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Saved to cache (Length: 83 , Path: 'C:\Users\HP\curseforge\minecraft\Instances\Sushant-s-Home-Survival-Server\CustomSkinLoader\caches\6d4002a6fcf1c84dadae5dc9770d075a2ba790a6' , Expire: 1628000108)
+[2021-08-03 19:43:36] [havokwrecker DEBUG] Content: {"SKIN":{"url":"http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png"}}
+[2021-08-03 19:43:36] [havokwrecker INFO] havokwrecker's profile loaded.
+[2021-08-03 19:43:36] [havokwrecker INFO] (SkinUrl: http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png , Model: default , CapeUrl: null  , Expiry: 1628000046)
+[2021-08-03 19:43:36] [pool-5-thread-1 DEBUG] Try to request 'http://ely.by/storage/skins/3a862f362ad232b80e3bec37b4b50424.png'.
+[2021-08-03 19:43:36] [pool-5-thread-1 DEBUG] Cache file found (Length: 3908 , Path: 'C:\Users\HP\AppData\Roaming\.minecraft\assets\skins\3a\3a862f362ad232b80e3bec37b4b50424' , Expire: 0)
+[2021-08-03 19:43:36] [Render thread DEBUG] Loading type: SKIN
+[2021-08-03 19:43:36] [Render thread INFO] ThreadDownloadImageData Class: net.minecraft.class_1046

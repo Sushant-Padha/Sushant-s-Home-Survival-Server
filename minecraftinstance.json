@@ -180,6 +180,102 @@
       "installedTargets": null
     },
     {
+      "addonID": 497175,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3368061,
+        "displayName": "graves-1.0.5.jar",
+        "fileName": "graves-1.0.5.jar",
+        "fileDate": "2021-06-28T19:45:30.86Z",
+        "fileLength": 353102,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3368/61/graves-1.0.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 105269779,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_graves",
+            "fingerprint": 1136524626,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3964838607,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3661933963,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1733656368,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "universal-graves.mixins.json",
+            "fingerprint": 2485224493,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "graves-refmap.json",
+            "fingerprint": 2143488738,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "eu",
+            "fingerprint": 1763103784,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 935454084,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "graves-1.0.5.jar"
+      },
+      "dateInstalled": "2021-08-03T13:55:01.9432091Z",
+      "dateUpdated": "2021-08-03T13:55:01.9521803Z",
+      "dateLastUpdateAttempted": "2021-08-03T13:55:01.9521803Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 486080,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -1927,6 +2023,116 @@
       "installedTargets": null
     },
     {
+      "addonID": 436799,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3328487,
+        "displayName": "biome_locator-1.17-1.1.2.jar",
+        "fileName": "biome_locator-1.17-1.1.2.jar",
+        "fileDate": "2021-05-28T18:30:28.483Z",
+        "fileLength": 99478,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3328/487/biome_locator-1.17-1.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 444498,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 208952622,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1077062447,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1904990588,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1469655244,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "biome_locator.mixins.json",
+            "fingerprint": 2531940237,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "biome_locator-1.17-refmap.json",
+            "fingerprint": 234224410,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 3888557514,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2704933685,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "biome_locator-1.17-1.1.2.jar"
+      },
+      "dateInstalled": "2021-08-03T13:57:17.1647034Z",
+      "dateUpdated": "2021-08-03T13:57:17.1676919Z",
+      "dateLastUpdateAttempted": "2021-08-03T13:57:17.1676919Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 286924,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -2284,6 +2490,116 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 317756,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3368391,
+        "displayName": "vanilla-hammers-3.1.2-1.17.jar",
+        "fileName": "vanilla-hammers-3.1.2-1.17.jar",
+        "fileDate": "2021-06-29T02:22:28.8Z",
+        "fileLength": 1344576,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3368/391/vanilla-hammers-3.1.2-1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1293974003,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_vanilla-hammers",
+            "fingerprint": 2226923820,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vanillahammers.mixin.json",
+            "fingerprint": 1944869136,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "static_data",
+            "fingerprint": 1317477382,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1245809819,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2089873112,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3571058670,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vanilla-hammers-refmap.json",
+            "fingerprint": 2803782596,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "draylar",
+            "fingerprint": 233445377,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3427099791,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "vanilla-hammers-3.1.2-1.17.jar"
+      },
+      "dateInstalled": "2021-08-03T13:58:41.2120415Z",
+      "dateUpdated": "2021-08-03T13:58:41.2150348Z",
+      "dateLastUpdateAttempted": "2021-08-03T13:58:41.2150348Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 264738,
@@ -2668,6 +2984,104 @@
       "installedTargets": null
     },
     {
+      "addonID": 419968,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3330672,
+        "displayName": "vein-excavator-1.17-1.0.0.jar",
+        "fileName": "vein-excavator-1.17-1.0.0.jar",
+        "fileDate": "2021-05-31T12:25:19.667Z",
+        "fileLength": 12022,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3330/672/vein-excavator-1.17-1.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 18375977,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2693447790,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vexc.mixins.json",
+            "fingerprint": 3031013871,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2108649052,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vein-excavator-1.17-refmap.json",
+            "fingerprint": 2948875378,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 458981339,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 791366473,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "vein-excavator-1.17-1.0.0.jar"
+      },
+      "dateInstalled": "2021-08-03T14:01:12.3275131Z",
+      "dateUpdated": "2021-08-03T14:01:12.3305074Z",
+      "dateLastUpdateAttempted": "2021-08-03T14:01:12.3305074Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 444498,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -2936,6 +3350,128 @@
       "installedTargets": null
     },
     {
+      "addonID": 318872,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3379104,
+        "displayName": "charm-fabric-1.17-3.3.0.jar",
+        "fileName": "charm-fabric-1.17-3.3.0.jar",
+        "fileDate": "2021-07-06T20:10:10.53Z",
+        "fileLength": 3924213,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3379/104/charm-fabric-1.17-3.3.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 378696,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 310111,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2717949877,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_charm-fabric-1.17",
+            "fingerprint": 1766424848,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3388051113,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "charm.mixins.json",
+            "fingerprint": 2590781275,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "charm.accesswidener",
+            "fingerprint": 1880652176,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4122557358,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2005655509,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1464364751,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "charm-fabric-1.17-refmap.json",
+            "fingerprint": 2686646651,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "svenhjol",
+            "fingerprint": 596851253,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1919459613,
+        "gameVersion": [
+          "1.17.1",
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "charm-fabric-1.17-3.3.0.jar"
+      },
+      "dateInstalled": "2021-08-03T13:04:43.8092829Z",
+      "dateUpdated": "2021-08-03T13:04:43.8142691Z",
+      "dateLastUpdateAttempted": "2021-08-03T13:04:43.8142691Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 317780,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -3025,7 +3561,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 401218,
@@ -3330,134 +3866,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 431910,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3366229,
-        "displayName": "veinmining-fabric-0.0.10-1.17.jar",
-        "fileName": "veinmining-fabric-0.0.10-1.17.jar",
-        "fileDate": "2021-06-27T07:20:24.707Z",
-        "fileLength": 65206,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3366/229/veinmining-fabric-0.0.10-1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 3366230,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 308702,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 319057,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "veinmining.mixins.json",
-            "fingerprint": 1848826850,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "README.md",
-            "fingerprint": 1471061356,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "licenses",
-            "fingerprint": 3854855645,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1409445009,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1539247748,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "CHANGELOG.md",
-            "fingerprint": 1485973668,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1645450733,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "veinmining-fabric-refmap.json",
-            "fingerprint": 2475954495,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "top",
-            "fingerprint": 2635555559,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 309278958,
-        "gameVersion": [
-          "1.17.1",
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "veinmining-fabric-0.0.10-1.17.jar"
-      },
-      "dateInstalled": "2021-08-03T13:02:37.5863276Z",
-      "dateUpdated": "2021-08-03T13:02:37.5913137Z",
-      "dateLastUpdateAttempted": "2021-08-03T13:02:37.5913137Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 391911,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -3706,120 +4114,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 428912,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3344158,
-        "displayName": "Krypton 0.1.3",
-        "fileName": "krypton-0.1.3.jar",
-        "fileDate": "2021-06-08T20:56:54.373Z",
-        "fileLength": 127244,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3344/158/krypton-0.1.3.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1552463068,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 2226923820,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "krypton.mixins.json",
-            "fingerprint": 2638190455,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "krypton.accesswidener",
-            "fingerprint": 2519871301,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1700254508,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1271844831,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "krypton-refmap.json",
-            "fingerprint": 1465658192,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "me",
-            "fingerprint": 609617413,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 479518788,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-            "gameVersionName": "1.17"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2352760,
-        "projectId": 428912,
-        "packageFingerprintId": 679345519,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3048414,
-        "gameVersionId": 7499,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "krypton-0.1.3.jar"
-      },
-      "dateInstalled": "2021-08-03T07:57:53.6073048Z",
-      "dateUpdated": "2021-08-03T07:57:53.6073048Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 409184,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -3948,6 +4242,120 @@
       },
       "dateInstalled": "2021-08-03T07:36:17.864616Z",
       "dateUpdated": "2021-08-03T07:36:17.864616Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 428912,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3344158,
+        "displayName": "Krypton 0.1.3",
+        "fileName": "krypton-0.1.3.jar",
+        "fileDate": "2021-06-08T20:56:54.373Z",
+        "fileLength": 127244,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3344/158/krypton-0.1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1552463068,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2226923820,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "krypton.mixins.json",
+            "fingerprint": 2638190455,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "krypton.accesswidener",
+            "fingerprint": 2519871301,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1700254508,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1271844831,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "krypton-refmap.json",
+            "fingerprint": 1465658192,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 609617413,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 479518788,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+            "gameVersionName": "1.17"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2352760,
+        "projectId": 428912,
+        "packageFingerprintId": 679345519,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3048414,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "krypton-0.1.3.jar"
+      },
+      "dateInstalled": "2021-08-03T07:57:53.6073048Z",
+      "dateUpdated": "2021-08-03T07:57:53.6073048Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
