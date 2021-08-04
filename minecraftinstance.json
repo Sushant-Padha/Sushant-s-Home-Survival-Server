@@ -46,8 +46,8 @@
   "name": "Sushant-s-Home-Survival-Server",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-08-04T03:28:17.0704528Z",
-  "lastRefreshAttempt": "2021-08-04T08:58:18.7073005+05:30",
+  "lastPreviousMatchUpdate": "2021-08-04T07:45:52.4227739Z",
+  "lastRefreshAttempt": "2021-08-04T13:35:24.194066+05:30",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.17",
@@ -71,6 +71,140 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2021-08-03T07:35:42.6312313Z",
   "installedAddons": [
+    {
+      "addonID": 437443,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3406118,
+        "displayName": "BSVSB 1.17 v2.0.1",
+        "fileName": "BetterSodiumVideoSettingsButton-2.0.1.jar",
+        "fileDate": "2021-07-30T05:26:22.143Z",
+        "fileLength": 83765,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3406/118/BetterSodiumVideoSettingsButton-2.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 70138135,
+            "addonId": 455508,
+            "type": 2,
+            "fileId": 3406118
+          },
+          {
+            "id": 70138134,
+            "addonId": 394468,
+            "type": 3,
+            "fileId": 3406118
+          },
+          {
+            "id": 70138136,
+            "addonId": 447673,
+            "type": 2,
+            "fileId": 3406118
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_BetterSodiumVideoSettingsButton",
+            "fingerprint": 2179387514,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2925056735,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "BetterSodiumVideoSettingsButton.mixins.json",
+            "fingerprint": 135565636,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3885341978,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "BetterSodiumVideoSettingsButton-refmap.json",
+            "fingerprint": 359752221,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 4058588124,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2810690034,
+        "gameVersion": [
+          "1.17.1",
+          "1.17",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1"
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+            "gameVersionName": "1.17"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2432017,
+        "projectId": 437443,
+        "packageFingerprintId": 715882454,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3176504,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "BetterSodiumVideoSettingsButton-2.0.1.jar"
+      },
+      "dateInstalled": "2021-08-04T07:15:40.7227044Z",
+      "dateUpdated": "2021-08-04T07:15:40.7227044Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
     {
       "addonID": 486080,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
@@ -193,7 +327,7 @@
       "dateInstalled": "2021-08-03T07:57:54.903546Z",
       "dateUpdated": "2021-08-03T07:57:54.903546Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -277,7 +411,7 @@
       "dateInstalled": "2021-08-03T07:57:54.8985629Z",
       "dateUpdated": "2021-08-03T07:57:54.8985629Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -385,7 +519,7 @@
       "dateInstalled": "2021-08-03T07:36:17.8689152Z",
       "dateUpdated": "2021-08-03T07:36:17.8689152Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -481,7 +615,7 @@
       "dateInstalled": "2021-08-03T07:57:56.6228217Z",
       "dateUpdated": "2021-08-03T07:57:56.6228217Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -591,7 +725,7 @@
       "dateInstalled": "2021-08-03T07:36:17.867606Z",
       "dateUpdated": "2021-08-03T07:36:17.867606Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -713,7 +847,7 @@
       "dateInstalled": "2021-08-03T07:57:56.2588808Z",
       "dateUpdated": "2021-08-03T07:57:56.2588808Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -821,7 +955,7 @@
       "dateInstalled": "2021-08-03T07:36:17.8606278Z",
       "dateUpdated": "2021-08-03T07:36:17.8606278Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -935,7 +1069,7 @@
       "dateInstalled": "2021-08-03T07:57:48.8283588Z",
       "dateUpdated": "2021-08-03T07:57:48.8283588Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1073,7 +1207,7 @@
       "dateInstalled": "2021-08-03T07:57:53.3550446Z",
       "dateUpdated": "2021-08-03T07:57:53.3550446Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1083,6 +1217,109 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 308702,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3400185,
+        "displayName": "Mod Menu v2.0.4 for 1.17",
+        "fileName": "modmenu-2.0.4.jar",
+        "fileDate": "2021-07-25T07:44:36.21Z",
+        "fileLength": 250891,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3400/185/modmenu-2.0.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 346127884,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3914258567,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2499736549,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3913409091,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mixins.modmenu.json",
+            "fingerprint": 822958131,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "programmer_art",
+            "fingerprint": 2488086783,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "modmenu-refmap.json",
+            "fingerprint": 1102435752,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 4238472715,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "io",
+            "fingerprint": 540723100,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1043562800,
+        "gameVersion": [
+          "1.17.1",
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "modmenu-2.0.4.jar"
+      },
+      "dateInstalled": "2021-08-04T07:20:49.3577913Z",
+      "dateUpdated": "2021-08-04T07:20:49.3807342Z",
+      "dateLastUpdateAttempted": "2021-08-04T07:20:49.3807342Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 361585,
@@ -1182,117 +1419,7 @@
       "dateInstalled": "2021-08-03T07:57:48.8274049Z",
       "dateUpdated": "2021-08-03T07:57:48.8274049Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 436799,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3328487,
-        "displayName": "biome_locator-1.17-1.1.2.jar",
-        "fileName": "biome_locator-1.17-1.1.2.jar",
-        "fileDate": "2021-05-28T18:30:28.483Z",
-        "fileLength": 99478,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3328/487/biome_locator-1.17-1.1.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 444498,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 208952622,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1077062447,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1904990588,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1469655244,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "biome_locator.mixins.json",
-            "fingerprint": 2531940237,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "biome_locator-1.17-refmap.json",
-            "fingerprint": 234224410,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 3888557514,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2704933685,
-        "gameVersion": [
-          "1.17",
-          "Fabric",
-          "1.17-Snapshot"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "biome_locator-1.17-1.1.2.jar"
-      },
-      "dateInstalled": "2021-08-03T13:57:17.1647034Z",
-      "dateUpdated": "2021-08-03T13:57:17.1676919Z",
-      "dateLastUpdateAttempted": "2021-08-03T13:57:17.1676919Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1518,7 +1645,7 @@
       "dateInstalled": "2021-08-03T07:57:54.9015601Z",
       "dateUpdated": "2021-08-03T07:57:54.9015601Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1651,6 +1778,108 @@
       "dateInstalled": "2021-08-03T07:57:54.8965672Z",
       "dateUpdated": "2021-08-03T07:57:54.8965672Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 433518,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3209972,
+        "displayName": "LazyDFU 0.1.2",
+        "fileName": "lazydfu-0.1.2.jar",
+        "fileDate": "2021-02-19T22:51:48.723Z",
+        "fileLength": 15517,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3209/972/lazydfu-0.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1296937477,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lazydfu.mixins.json",
+            "fingerprint": 2155720286,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3301782732,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1040627429,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lazydfu-refmap.json",
+            "fingerprint": 1712177599,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 1216069540,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2594861637,
+        "gameVersion": [
+          "1.17.1",
+          "1.16.3",
+          "1.16.1",
+          "1.14.4",
+          "1.17",
+          "Fabric",
+          "1.15",
+          "1.16",
+          "1.16.5",
+          "1.14",
+          "1.15.2",
+          "1.14.2",
+          "1.16.2",
+          "1.15.1"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "lazydfu-0.1.2.jar"
+      },
+      "dateInstalled": "2021-08-04T06:53:15.1321863Z",
+      "dateUpdated": "2021-08-04T06:53:15.1367775Z",
+      "dateLastUpdateAttempted": "2021-08-04T06:53:15.1367775Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -1791,7 +2020,7 @@
       "dateInstalled": "2021-08-03T07:36:17.8636187Z",
       "dateUpdated": "2021-08-03T07:36:17.8636187Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1892,7 +2121,7 @@
       "dateInstalled": "2021-08-03T07:57:54.9045433Z",
       "dateUpdated": "2021-08-03T07:57:54.9045433Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2033,7 +2262,7 @@
       "dateInstalled": "2021-08-03T07:57:54.8995583Z",
       "dateUpdated": "2021-08-03T07:57:54.8995583Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2355,7 +2584,7 @@
       "dateInstalled": "2021-08-03T07:57:54.9209319Z",
       "dateUpdated": "2021-08-03T07:57:54.9209319Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2621,7 +2850,7 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": false,
+      "isModified": true,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2854,7 +3083,7 @@
       "dateInstalled": "2021-08-03T07:36:14.0880786Z",
       "dateUpdated": "2021-08-03T07:36:14.0880786Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3011,7 +3240,7 @@
       "dateInstalled": "2021-08-03T07:57:54.8935757Z",
       "dateUpdated": "2021-08-03T07:57:54.8935757Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3119,7 +3348,7 @@
       "dateInstalled": "2021-08-03T07:57:54.9055405Z",
       "dateUpdated": "2021-08-03T07:57:54.9055405Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3259,121 +3488,7 @@
       "dateInstalled": "2021-08-03T07:57:56.2568593Z",
       "dateUpdated": "2021-08-03T07:57:56.2568593Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 428912,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3344158,
-        "displayName": "Krypton 0.1.3",
-        "fileName": "krypton-0.1.3.jar",
-        "fileDate": "2021-06-08T20:56:54.373Z",
-        "fileLength": 127244,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3344/158/krypton-0.1.3.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1552463068,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 2226923820,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "krypton.mixins.json",
-            "fingerprint": 2638190455,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "krypton.accesswidener",
-            "fingerprint": 2519871301,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1700254508,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1271844831,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "krypton-refmap.json",
-            "fingerprint": 1465658192,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "me",
-            "fingerprint": 609617413,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 479518788,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-            "gameVersionName": "1.17"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2352760,
-        "projectId": 428912,
-        "packageFingerprintId": 679345519,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3048414,
-        "gameVersionId": 7499,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "krypton-0.1.3.jar"
-      },
-      "dateInstalled": "2021-08-03T07:57:53.6073048Z",
-      "dateUpdated": "2021-08-03T07:57:53.6073048Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3514,7 +3629,121 @@
       "dateInstalled": "2021-08-03T07:36:17.864616Z",
       "dateUpdated": "2021-08-03T07:36:17.864616Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 428912,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3344158,
+        "displayName": "Krypton 0.1.3",
+        "fileName": "krypton-0.1.3.jar",
+        "fileDate": "2021-06-08T20:56:54.373Z",
+        "fileLength": 127244,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3344/158/krypton-0.1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1552463068,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2226923820,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "krypton.mixins.json",
+            "fingerprint": 2638190455,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "krypton.accesswidener",
+            "fingerprint": 2519871301,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1700254508,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1271844831,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "krypton-refmap.json",
+            "fingerprint": 1465658192,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 609617413,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 479518788,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+            "gameVersionName": "1.17"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2352760,
+        "projectId": 428912,
+        "packageFingerprintId": 679345519,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3048414,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "krypton-0.1.3.jar"
+      },
+      "dateInstalled": "2021-08-03T07:57:53.6073048Z",
+      "dateUpdated": "2021-08-03T07:57:53.6073048Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3612,7 +3841,7 @@
       "dateInstalled": "2021-08-03T07:36:17.8678015Z",
       "dateUpdated": "2021-08-03T07:36:17.8678015Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3746,7 +3975,7 @@
       "dateInstalled": "2021-08-03T07:57:54.9169416Z",
       "dateUpdated": "2021-08-03T07:57:54.9169416Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3913,7 +4142,7 @@
       "dateInstalled": "2021-08-03T07:57:57.6235758Z",
       "dateUpdated": "2021-08-03T07:57:57.6235758Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4035,7 +4264,7 @@
       "dateInstalled": "2021-08-03T07:36:17.8616248Z",
       "dateUpdated": "2021-08-03T07:36:17.8616248Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4045,6 +4274,116 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 393442,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3409038,
+        "displayName": "LambDynamicLights v2.0.2 (1.17) ",
+        "fileName": "lambdynamiclights-2.0.2+1.17.jar",
+        "fileDate": "2021-08-01T22:52:34.03Z",
+        "fileLength": 544641,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3409/38/lambdynamiclights-2.0.2+1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 308702,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1455877333,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lambdynlights.toml",
+            "fingerprint": 2856283407,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2066150313,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lambdynlights.mixins.json",
+            "fingerprint": 836796982,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lambdynlights.lightsource.mixins.json",
+            "fingerprint": 3823470063,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1134501880,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "lambdynamiclights-refmap.json",
+            "fingerprint": 238058640,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "dev",
+            "fingerprint": 1681887584,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2350402653,
+        "gameVersion": [
+          "1.17.1",
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "lambdynamiclights-2.0.2+1.17.jar"
+      },
+      "dateInstalled": "2021-08-04T07:20:50.5267638Z",
+      "dateUpdated": "2021-08-04T07:20:50.5367508Z",
+      "dateLastUpdateAttempted": "2021-08-04T07:20:50.5367508Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 256717,
@@ -4151,109 +4490,7 @@
       "dateInstalled": "2021-08-03T07:57:48.8264084Z",
       "dateUpdated": "2021-08-03T07:57:48.8264084Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 498248,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3367168,
-        "displayName": "connected-doors-1.1+1.17.jar",
-        "fileName": "connected-doors-1.1+1.17.jar",
-        "fileDate": "2021-06-28T01:50:29.437Z",
-        "fileLength": 32321,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3367/168/connected-doors-1.1+1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1854880452,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "doors.mixins.json",
-            "fingerprint": 1607996434,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 97783481,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "connected-doors-refmap.json",
-            "fingerprint": 1735774534,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "re",
-            "fingerprint": 746450567,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3991079216,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-            "gameVersionName": "1.17"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2382084,
-        "projectId": 498248,
-        "packageFingerprintId": 693254390,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3081775,
-        "gameVersionId": 7499,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "connected-doors-1.1+1.17.jar"
-      },
-      "dateInstalled": "2021-08-04T03:28:18.4053391Z",
-      "dateUpdated": "2021-08-04T03:28:18.4053391Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4349,7 +4586,7 @@
       "dateInstalled": "2021-08-03T07:57:55.5887111Z",
       "dateUpdated": "2021-08-03T07:57:55.5887111Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4457,105 +4694,7 @@
       "dateInstalled": "2021-08-03T07:36:17.8586342Z",
       "dateUpdated": "2021-08-03T07:36:17.8586342Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 432493,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3376795,
-        "displayName": "0.5.0+1.17",
-        "fileName": "ctm-fabric-0.5.0+1.17.jar",
-        "fileDate": "2021-07-04T23:56:18.117Z",
-        "fileLength": 190060,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3376/795/ctm-fabric-0.5.0+1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE_ctm-fabric",
-            "fingerprint": 3804980824,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 3667403727,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "ctm.mixins.json",
-            "fingerprint": 3174142346,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3488580959,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "ctm-fabric-refmap.json",
-            "fingerprint": 1927893894,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "team",
-            "fingerprint": 161864328,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2599718329,
-        "gameVersion": [
-          "1.17.1",
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "ctm-fabric-0.5.0+1.17.jar"
-      },
-      "dateInstalled": "2021-08-03T17:30:22.4065172Z",
-      "dateUpdated": "2021-08-03T17:30:22.4095021Z",
-      "dateLastUpdateAttempted": "2021-08-03T17:30:22.4095021Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4793,7 +4932,7 @@
       "dateInstalled": "2021-08-03T07:57:54.9065364Z",
       "dateUpdated": "2021-08-03T07:57:54.9065364Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4913,91 +5052,6 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
-    },
-    {
-      "addonID": 311120,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3378759,
-        "displayName": "Couplings 1.5.1+1.17",
-        "fileName": "Couplings-1.5.1+1.17.jar",
-        "fileDate": "2021-07-06T16:18:44.373Z",
-        "fileLength": 330032,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3378/759/Couplings-1.5.1+1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 3378760,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1564863286,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 1185419476,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.png",
-            "fingerprint": 194109050,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 612824609,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mixins",
-            "fingerprint": 2839444359,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "dev",
-            "fingerprint": 1861876324,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1335031964,
-        "gameVersion": [
-          "1.17.1",
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Couplings-1.5.1+1.17.jar"
-      },
-      "dateInstalled": "2021-08-04T06:48:27.7312327Z",
-      "dateUpdated": "2021-08-04T06:48:27.7402674Z",
-      "dateLastUpdateAttempted": "2021-08-04T06:48:27.7402674Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
     }
   ],
   "isMigrated": false,
