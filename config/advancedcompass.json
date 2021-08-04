@@ -1,6 +1,6 @@
 {
   "y_offset": 4,
-  "max_distance": 150,
+  "max_distance": 100,
   "group_radius": 25,
   "move_bossbar": true,
   "group_entities": true,

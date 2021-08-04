@@ -9,6 +9,7 @@ CustomSkinLoader/*
 !mods/*
 !config/
 !config/*
+!config/**/*
 !resourcepacks/
 !resourcepacks/*
 !logo.*
