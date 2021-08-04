@@ -46,8 +46,8 @@
   "name": "Sushant-s-Home-Survival-Server",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-08-03T07:36:14.4155221Z",
-  "lastRefreshAttempt": "2021-08-03T13:28:10.6145696+05:30",
+  "lastPreviousMatchUpdate": "2021-08-04T03:28:17.0704528Z",
+  "lastRefreshAttempt": "2021-08-04T08:58:18.7073005+05:30",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.17",
@@ -507,86 +507,7 @@
     {
       "addonID": 404578,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3387197,
-        "displayName": "flan-1.17-1.5.4.jar",
-        "fileName": "flan-1.17-1.5.4.jar",
-        "fileDate": "2021-07-13T11:09:32.52Z",
-        "fileLength": 554031,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3387/197/flan-1.17-1.5.4.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4201496298,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1498899875,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 3267710179,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "flan.mixins.json",
-            "fingerprint": 3213959191,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "flan-refmap.json",
-            "fingerprint": 3388135802,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "org",
-            "fingerprint": 1874127661,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "io",
-            "fingerprint": 2808325084,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2986036186,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "flan-1.17-1.5.4.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-08-03T17:35:12.9777003Z",
       "dateUpdated": "2021-08-03T17:35:12.9896609Z",
       "dateLastUpdateAttempted": "2021-08-03T17:35:12.9896609Z",
@@ -2356,6 +2277,102 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 493126,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3348217,
+        "displayName": "Not Forgotten V1",
+        "fileName": "notforgotten-1.0.0.jar",
+        "fileDate": "2021-06-11T20:37:55.78Z",
+        "fileLength": 81673,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3348/217/notforgotten-1.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_notforgotten",
+            "fingerprint": 18375977,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "markers.mixins.json",
+            "fingerprint": 1925000761,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2449419053,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 384408593,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3541048681,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "notforgotten-refmap.json",
+            "fingerprint": 3410120004,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2603579929,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3841183711,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "notforgotten-1.0.0.jar"
+      },
+      "dateInstalled": "2021-08-04T02:59:53.1526083Z",
+      "dateUpdated": "2021-08-04T02:59:53.1739702Z",
+      "dateLastUpdateAttempted": "2021-08-04T02:59:53.1739702Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 419968,
@@ -4266,73 +4283,7 @@
     {
       "addonID": 498248,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3367168,
-        "displayName": "connected-doors-1.1+1.17.jar",
-        "fileName": "connected-doors-1.1+1.17.jar",
-        "fileDate": "2021-06-28T01:50:29.437Z",
-        "fileLength": 32321,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3367/168/connected-doors-1.1+1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1854880452,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "doors.mixins.json",
-            "fingerprint": 1607996434,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 97783481,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "connected-doors-refmap.json",
-            "fingerprint": 1735774534,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "re",
-            "fingerprint": 746450567,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3991079216,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "connected-doors-1.1+1.17.jar"
-      },
+      "installedFile": null,
       "dateInstalled": "2021-08-03T17:30:25.402398Z",
       "dateUpdated": "2021-08-03T17:30:25.4044037Z",
       "dateLastUpdateAttempted": "2021-08-03T17:30:25.4044037Z",
