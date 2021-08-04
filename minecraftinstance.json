@@ -180,102 +180,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 497175,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3368061,
-        "displayName": "graves-1.0.5.jar",
-        "fileName": "graves-1.0.5.jar",
-        "fileDate": "2021-06-28T19:45:30.86Z",
-        "fileLength": 353102,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3368/61/graves-1.0.5.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 105269779,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE_graves",
-            "fingerprint": 1136524626,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 3964838607,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3661933963,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1733656368,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "universal-graves.mixins.json",
-            "fingerprint": 2485224493,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "graves-refmap.json",
-            "fingerprint": 2143488738,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "eu",
-            "fingerprint": 1763103784,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 935454084,
-        "gameVersion": [
-          "1.17",
-          "Fabric"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "graves-1.0.5.jar"
-      },
-      "dateInstalled": "2021-08-03T13:55:01.9432091Z",
-      "dateUpdated": "2021-08-03T13:55:01.9521803Z",
-      "dateLastUpdateAttempted": "2021-08-03T13:55:01.9521803Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 486080,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -589,6 +493,103 @@
       "dateInstalled": "2021-08-03T07:36:17.8689152Z",
       "dateUpdated": "2021-08-03T07:36:17.8689152Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 404578,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3387197,
+        "displayName": "flan-1.17-1.5.4.jar",
+        "fileName": "flan-1.17-1.5.4.jar",
+        "fileDate": "2021-07-13T11:09:32.52Z",
+        "fileLength": 554031,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3387/197/flan-1.17-1.5.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4201496298,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1498899875,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3267710179,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "flan.mixins.json",
+            "fingerprint": 3213959191,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "flan-refmap.json",
+            "fingerprint": 3388135802,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 1874127661,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "io",
+            "fingerprint": 2808325084,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2986036186,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "flan-1.17-1.5.4.jar"
+      },
+      "dateInstalled": "2021-08-03T17:35:12.9777003Z",
+      "dateUpdated": "2021-08-03T17:35:12.9896609Z",
+      "dateLastUpdateAttempted": "2021-08-03T17:35:12.9896609Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -4263,6 +4264,90 @@
       "installedTargets": null
     },
     {
+      "addonID": 498248,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3367168,
+        "displayName": "connected-doors-1.1+1.17.jar",
+        "fileName": "connected-doors-1.1+1.17.jar",
+        "fileDate": "2021-06-28T01:50:29.437Z",
+        "fileLength": 32321,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3367/168/connected-doors-1.1+1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1854880452,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "doors.mixins.json",
+            "fingerprint": 1607996434,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 97783481,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "connected-doors-refmap.json",
+            "fingerprint": 1735774534,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "re",
+            "fingerprint": 746450567,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3991079216,
+        "gameVersion": [
+          "1.17",
+          "Fabric"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "connected-doors-1.1+1.17.jar"
+      },
+      "dateInstalled": "2021-08-03T17:30:25.402398Z",
+      "dateUpdated": "2021-08-03T17:30:25.4044037Z",
+      "dateLastUpdateAttempted": "2021-08-03T17:30:25.4044037Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 256717,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -4570,7 +4655,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 319057,
@@ -4769,7 +4854,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 351393,

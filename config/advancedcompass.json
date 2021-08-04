@@ -12,7 +12,7 @@
   "hide_overlapped": true,
   "auto_death_waypoint": true,
   "show_mode": "ALWAYS_ON",
-  "coordinates_mode": "OFF",
+  "coordinates_mode": "BELOW",
   "generation_type": "HEAD_FIRST",
   "coordinates_scale": 100,
   "compass_width": 412,
