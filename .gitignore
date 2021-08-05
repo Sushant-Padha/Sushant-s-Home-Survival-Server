@@ -20,6 +20,7 @@ CustomSkinLoader/*
 #!server-resource-packs/*
 #!server-resource-packs/**/*
 
+!ServerResourcePack*
 !ServerResourcePack/
 !ServerResourcePack/*
 !ServerResourcePack/**/*
