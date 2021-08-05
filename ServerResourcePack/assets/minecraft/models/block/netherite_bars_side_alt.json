@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/iron_bars_side_alt",
+    "textures": {
+        "particle": "charm:block/netherite_bars",
+        "bars": "charm:block/netherite_bars",
+        "edge": "charm:block/netherite_bars"
+    }
+}

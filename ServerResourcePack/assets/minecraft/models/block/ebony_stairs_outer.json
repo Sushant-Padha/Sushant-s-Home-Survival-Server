@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/outer_stairs",
+    "textures": {
+        "bottom": "charm:block/ebony_planks",
+        "top": "charm:block/ebony_planks",
+        "side": "charm:block/ebony_planks"
+    }
+}

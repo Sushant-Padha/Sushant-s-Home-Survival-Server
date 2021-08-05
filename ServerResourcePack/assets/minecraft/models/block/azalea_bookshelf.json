@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "charm:block/azalea_planks",
+        "side": "charm:block/azalea_bookshelf"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/chain",
+    "textures": {
+        "particle": "charm:block/gold_chain",
+        "all": "charm:block/gold_chain"
+    }
+}
