@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block/cube_column",
-    "textures": {
-        "end": "charm:block/ebony_planks",
-        "side": "charm:block/ebony_bookshelf"
-    }
-}

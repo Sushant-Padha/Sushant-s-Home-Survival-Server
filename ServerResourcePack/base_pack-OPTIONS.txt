@@ -1,0 +1,51 @@
+ 
+FRESH ANIMATIONS v1.3
+Base pack Options
+
+I recommend that you keep an original copy in case you want to make later changes.
+	
+		If any errors occur after loading the pack, you will need to restart the game.
+		
+			If you find any other bugs or issues record it in my Discord server under #issues.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+- textures > entity > iron_golem
+
+	Centred eyes -	iron_golem.png & iron_golem_e.png
+						Matches eyes from Fresh Animations v1.0.
+							Edit the texture for the desired look. Edit both iron_golem.png and iron_golem_e.png.
+								Indicated by "v1" at the left corner of the head in the texture.
+									Edit texture OR delete file to remove this add-on (return to normal eyes).
+
+	Glowing eyes -	iron_golem_e.png
+						Works with shaders. 
+							Often an issue when using other texture packs.
+								For centred eyes option, edit the texture for the desired look.
+									Delete file to remove this add-on.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+- optifine > random > entity 
+
+All baby head size fixes - 	NOT texture pack friendly.
+								Without this the heads are smaller, but ARE texture pack friendly.
+
+	zombie - 		Mainly fixes baby zombie and baby husk head sizes.
+						Delete folder to remove this add-on.
+
+	zombie_villager - Mainly fixes baby zombie villager head sizes.
+						Delete folder to remove this add-on.
+
+	villager -		Adds big-headed baby Villagers.
+						Delete folder to remove this add-on.
+
+	pig -			Mainly fixes piglet head size.
+						Delete folder to remove this add-on.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+	Get the Add-On Resource Pack for more options. 
+	Found under recent files at: https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files

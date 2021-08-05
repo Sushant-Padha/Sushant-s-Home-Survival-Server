@@ -1,6 +1,0 @@
-{
-    "parent": "charm:block/bookcase/ebony_bookcase_0",
-    "textures": {
-        "side": "charm:block/bookcase/ebony_bookcase_2"
-    }
-}
