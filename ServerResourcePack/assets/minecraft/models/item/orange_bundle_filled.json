@@ -1,0 +1,6 @@
+{
+    "parent": "item/bundle",
+    "textures": {
+        "layer0": "charm:item/orange_bundle_filled"
+    }
+}

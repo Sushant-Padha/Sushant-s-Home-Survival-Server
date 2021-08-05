@@ -7,11 +7,23 @@ CustomSkinLoader/*
 
 !mods/
 !mods/*
+
 !config/
 !config/*
 !config/**/*
+
 !resourcepacks/
 !resourcepacks/*
+!resourcepacks/**/*
+
+#!server-resource-packs/
+#!server-resource-packs/*
+#!server-resource-packs/**/*
+
+!ServerResourcePack/
+!ServerResourcePack/*
+!ServerResourcePack/**/*
+
 !logo.*
 !minecraftinstance.json
 !launcher_profiles.json

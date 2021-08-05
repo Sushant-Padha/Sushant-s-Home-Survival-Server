@@ -1,0 +1,43 @@
+{
+	"texture": "textures/entity/zombie/zombie_head",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-6, -12, -6.8, 12, 12, 12],
+			"uvNorth": [8, 24, 16, 32],
+			"uvEast": [0, 24, 8, 32],
+			"uvSouth": [24, 24, 32, 32],
+			"uvWest": [16, 24, 24, 32],
+			"uvUp": [16, 24, 8, 16],
+			"uvDown": [16, 16, 24, 24]
+		},
+		{
+			"coordinates": [-6.44, -12.44, -7.24, 12.88, 12.88, 12.88],
+			"uvNorth": [40, 24, 48, 32],
+			"uvEast": [32, 24, 40, 32],
+			"uvSouth": [56, 24, 64, 32],
+			"uvWest": [48, 24, 56, 32],
+			"uvUp": [48, 24, 40, 16],
+			"uvDown": [48, 16, 56, 24]
+		},
+		{
+			"coordinates": [-4, -8, -4, 8, 8, 8],
+			"uvNorth": [8, 8, 16, 16],
+			"uvEast": [0, 8, 8, 16],
+			"uvSouth": [24, 8, 32, 16],
+			"uvWest": [16, 8, 24, 16],
+			"uvUp": [16, 8, 8, 0],
+			"uvDown": [16, 0, 24, 8]
+		},
+		{
+			"coordinates": [-4.25, -8.25, -4.25, 8.5, 8.5, 8.5],
+			"uvNorth": [40, 8, 48, 16],
+			"uvEast": [32, 8, 40, 16],
+			"uvSouth": [56, 8, 64, 16],
+			"uvWest": [48, 8, 56, 16],
+			"uvUp": [48, 8, 40, 0],
+			"uvDown": [48, 0, 56, 8]
+		}
+	]
+}

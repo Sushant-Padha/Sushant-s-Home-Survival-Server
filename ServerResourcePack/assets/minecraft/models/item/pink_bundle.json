@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "charm:item/pink_bundle"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "colored_bundle_filled": 1E-7
+            },
+            "model": "charm:item/pink_bundle_filled"
+        }
+    ]
+}

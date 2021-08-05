@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "hanging=true": {
+            "model": "charm:block/netherite_soul_lantern_hanging"
+        },
+        "hanging=false": {
+            "model": "charm:block/netherite_soul_lantern"
+        }
+    }
+}

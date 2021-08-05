@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/iron_bars_side",
+    "textures": {
+        "particle": "charm:block/copper_bars",
+        "bars": "charm:block/copper_bars",
+        "edge": "charm:block/copper_bars"
+    }
+}

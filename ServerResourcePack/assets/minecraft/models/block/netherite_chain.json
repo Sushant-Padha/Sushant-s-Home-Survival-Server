@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/chain",
+    "textures": {
+        "particle": "charm:block/netherite_chain",
+        "all": "charm:block/netherite_chain"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=x": {
+            "model": "charm:block/ebony_wood",
+            "x": 90,
+            "y": 90
+        },
+        "axis=y": {
+            "model": "charm:block/ebony_wood"
+        },
+        "axis=z": {
+            "model": "charm:block/ebony_wood",
+            "x": 90
+        }
+    }
+}
