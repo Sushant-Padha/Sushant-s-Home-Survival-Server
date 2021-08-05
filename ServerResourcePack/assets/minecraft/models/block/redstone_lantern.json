@@ -1,7 +1,0 @@
-{
-	"parent": "block/lantern",
-	"textures": {
-		"particle": "charm:block/redstone_lantern",
-		"lantern": "charm:block/redstone_lantern"
-	}
-}

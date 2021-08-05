@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/iron_bars_post",
-    "textures": {
-        "particle": "charm:block/copper_bars",
-        "bars": "charm:block/copper_bars",
-        "edge": "charm:block/copper_bars"
-    }
-}

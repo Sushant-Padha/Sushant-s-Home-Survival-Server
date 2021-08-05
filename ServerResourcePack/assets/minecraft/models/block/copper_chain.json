@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block/chain",
-    "textures": {
-        "particle": "charm:block/copper_chain",
-        "all": "charm:block/copper_chain"
-    }
-}

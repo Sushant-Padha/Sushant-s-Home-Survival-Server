@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/iron_bars_cap",
-    "textures": {
-        "particle": "charm:block/netherite_bars",
-        "bars": "charm:block/netherite_bars",
-        "edge": "charm:block/netherite_bars"
-    }
-}
