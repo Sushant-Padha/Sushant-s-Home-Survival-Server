@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+	"overrides": [
+      {"predicate": {"custom_model_data":100000}, "model": "item/enchantmentplus/table_item"},
+      {"predicate": {"custom_model_data":100001}, "model": "item/enchantmentplus/table_block"},
+
+      {"predicate": {"custom_model_data":100002}, "model": "item/voidminers/voidbench/item"},
+      {"predicate": {"custom_model_data":100003}, "model": "item/voidminers/voidbench/block"},
+      {"predicate": {"custom_model_data":100010}, "model": "item/voidminers/ore_miners/tier1_item"},
+      {"predicate": {"custom_model_data":100011}, "model": "item/voidminers/ore_miners/tier1_block"},
+      {"predicate": {"custom_model_data":100012}, "model": "item/voidminers/ore_miners/tier2_item"},
+      {"predicate": {"custom_model_data":100013}, "model": "item/voidminers/ore_miners/tier2_block"},
+      {"predicate": {"custom_model_data":100014}, "model": "item/voidminers/ore_miners/tier3_item"},
+      {"predicate": {"custom_model_data":100015}, "model": "item/voidminers/ore_miners/tier3_block"},
+      {"predicate": {"custom_model_data":100016}, "model": "item/voidminers/ore_miners/tier4_item"},
+      {"predicate": {"custom_model_data":100017}, "model": "item/voidminers/ore_miners/tier4_block"},
+      {"predicate": {"custom_model_data":100018}, "model": "item/voidminers/ore_miners/tier5_item"},
+      {"predicate": {"custom_model_data":100019}, "model": "item/voidminers/ore_miners/tier5_block"},
+      {"predicate": {"custom_model_data":100020}, "model": "item/voidminers/ore_miners/tier6_item"},
+      {"predicate": {"custom_model_data":100021}, "model": "item/voidminers/ore_miners/tier6_block"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/prismarine_crystals"
+  },
+	"overrides": [
+    {"predicate": {"custom_model_data":100001}, "model": "item/voidminers/crystals/tier_1_petalite"},
+    {"predicate": {"custom_model_data":100002}, "model": "item/voidminers/crystals/tier_2_heliodor"},
+    {"predicate": {"custom_model_data":100003}, "model": "item/voidminers/crystals/tier_3_jade"},
+    {"predicate": {"custom_model_data":100004}, "model": "item/voidminers/crystals/tier_4_tanzanite"},
+    {"predicate": {"custom_model_data":100005}, "model": "item/voidminers/crystals/tier_5_pyroxmangite"},
+    {"predicate": {"custom_model_data":100006}, "model": "item/voidminers/crystals/tier_6_onyx"}
+	]
+}

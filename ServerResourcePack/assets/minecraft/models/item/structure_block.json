@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/structure_block",
+	"overrides": [
+    {"predicate": {"custom_model_data":100000}, "model": "item/wyvernite_armor/locked_slot"}
+	]
+}

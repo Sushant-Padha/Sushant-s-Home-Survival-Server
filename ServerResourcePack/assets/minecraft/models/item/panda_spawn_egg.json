@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+	"overrides": [
+      {"predicate": {"custom_model_data":100000}, "model": "item/astral_manipulator"}
+  ]
+}
