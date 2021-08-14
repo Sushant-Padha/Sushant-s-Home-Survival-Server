@@ -1,7 +1,7 @@
 {
   "y_offset": 4,
   "max_distance": 100,
-  "group_radius": 25,
+  "group_radius": 15,
   "move_bossbar": true,
   "group_entities": true,
   "show_distance": true,
@@ -10,7 +10,7 @@
   "angle_threshold": 90,
   "overlap_threshold": 4,
   "hide_overlapped": true,
-  "auto_death_waypoint": true,
+  "auto_death_waypoint": false,
   "show_mode": "ALWAYS_ON",
   "coordinates_mode": "BELOW",
   "generation_type": "HEAD_FIRST",
