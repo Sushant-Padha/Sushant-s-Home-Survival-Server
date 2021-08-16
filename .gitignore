@@ -4,6 +4,8 @@
 */*
 CustomSkinLoader/
 CustomSkinLoader/*
+config/AdvancedCompass/waypoints/localhost
+config/AdvancedCompass/waypoints/localhost/*
 
 !mods/
 !mods/*
