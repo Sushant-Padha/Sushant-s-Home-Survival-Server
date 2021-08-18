@@ -21,7 +21,7 @@ showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
-oldDeathpoints:true
+oldDeathpoints:false
 distance:1
 showCoords:true
 lockNorth:false
@@ -64,7 +64,7 @@ smoothDots:true
 playerIcons:2
 mobIcons:1
 hostileIcons:1
-tamedIcons:2
+tamedIcons:1
 heightLimit:20
 worldMap:true
 terrainDepth:true

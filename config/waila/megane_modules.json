@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "megane-vanilla": {
+      "badasintended.megane.impl.Minecraft": true
+    }
+  }
+}
