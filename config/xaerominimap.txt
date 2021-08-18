@@ -32,11 +32,11 @@ chunkGrid:-1
 slimeChunks:false
 playersColor:15
 mobsColor:14
-hostileColor:14
-itemsColor:12
-otherColor:5
+hostileColor:4
+itemsColor:5
+otherColor:0
 otherTeamColor:-1
-tamedMobsColor:-1
+tamedMobsColor:2
 mapSafeMode:false
 minimapOpacity:100.0
 waypointsIngameIconScale:0
@@ -51,7 +51,7 @@ dotsStyle:0
 headsScale:1.0
 dotNameScale:1.0
 compassOverWaypoints:false
-showBiome:false
+showBiome:true
 showEntityHeight:true
 showFlowers:true
 keepWaypointNames:true
@@ -61,10 +61,10 @@ waypointTPCommand:/tp @s
 arrowScale:1.5
 arrowColour:0
 smoothDots:true
-playerIcons:1
+playerIcons:2
 mobIcons:1
 hostileIcons:1
-tamedIcons:3
+tamedIcons:2
 heightLimit:20
 worldMap:true
 terrainDepth:true
@@ -76,7 +76,7 @@ waypointOpacityMap:90
 hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
-playerNames:0
+playerNames:2
 otherTeamsNames:3
 friendlyMobNames:0
 hostileMobNames:0
@@ -86,7 +86,7 @@ tamedMobNames:3
 showLightLevel:0
 renderLayerIndex:1
 crossDimensionalTp:true
-showTime:0
+showTime:1
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
@@ -117,9 +117,9 @@ compassColor:9
 itemFramesOnRadar:false
 showDimensionName:false
 displayNameWhenIconFails:true
+interface:dummy:0:36:true:false:false:false
+interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
-interface:dummy:0:135:false:false:false:false
-interface:dummy:120:0:true:false:false:false
-interface:dummy:0:50:true:false:false:false
+interface:dummy:0:36:true:false:false:false
 interface:gui.xaero_minimap:0:0:false:false:true:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints

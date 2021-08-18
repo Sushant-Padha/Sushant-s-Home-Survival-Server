@@ -11,7 +11,7 @@
   "overlap_threshold": 4,
   "hide_overlapped": true,
   "auto_death_waypoint": false,
-  "show_mode": "OFF",
+  "show_mode": "ALWAYS_ON",
   "coordinates_mode": "BELOW",
   "generation_type": "HEAD_FIRST",
   "coordinates_scale": 100,
