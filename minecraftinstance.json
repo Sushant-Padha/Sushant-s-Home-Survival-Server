@@ -292,7 +292,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 392805,
@@ -508,7 +508,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 433539,
@@ -749,140 +749,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 317756,
-      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
-      "installedFile": {
-        "id": 3368391,
-        "displayName": "vanilla-hammers-3.1.2-1.17.jar",
-        "fileName": "vanilla-hammers-3.1.2-1.17.jar",
-        "fileDate": "2021-06-29T02:22:28.8Z",
-        "fileLength": 1344576,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3368/391/vanilla-hammers-3.1.2-1.17.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 67597355,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 3368391
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1293974003,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE_vanilla-hammers",
-            "fingerprint": 2226923820,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "vanillahammers.mixin.json",
-            "fingerprint": 1944869136,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "static_data",
-            "fingerprint": 1317477382,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1245809819,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2089873112,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3571058670,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "vanilla-hammers-refmap.json",
-            "fingerprint": 2803782596,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "draylar",
-            "fingerprint": 233445377,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3427099791,
-        "gameVersion": [
-          "1.17",
-          "Fabric",
-          "1.17-Snapshot"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
-            "gameVersionName": "1.17"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000017",
-            "gameVersion": "1.17",
-            "gameVersionReleaseDate": "2021-03-18T00:00:00Z",
-            "gameVersionName": "1.17-Snapshot"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2383667,
-        "projectId": 317756,
-        "packageFingerprintId": 694066747,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3084823,
-        "gameVersionId": 7499,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "vanilla-hammers-3.1.2-1.17.jar"
-      },
-      "dateInstalled": "2021-08-18T15:10:22.4764786Z",
-      "dateUpdated": "2021-08-18T15:10:22.4764786Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 459857,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -1040,6 +906,140 @@
       "installedTargets": null
     },
     {
+      "addonID": 317756,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3368391,
+        "displayName": "vanilla-hammers-3.1.2-1.17.jar",
+        "fileName": "vanilla-hammers-3.1.2-1.17.jar",
+        "fileDate": "2021-06-29T02:22:28.8Z",
+        "fileLength": 1344576,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3368/391/vanilla-hammers-3.1.2-1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 67597355,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3368391
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1293974003,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_vanilla-hammers",
+            "fingerprint": 2226923820,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vanillahammers.mixin.json",
+            "fingerprint": 1944869136,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "static_data",
+            "fingerprint": 1317477382,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1245809819,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2089873112,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3571058670,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vanilla-hammers-refmap.json",
+            "fingerprint": 2803782596,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "draylar",
+            "fingerprint": 233445377,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3427099791,
+        "gameVersion": [
+          "1.17",
+          "Fabric",
+          "1.17-Snapshot"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+            "gameVersionName": "1.17"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric"
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2021-03-18T00:00:00Z",
+            "gameVersionName": "1.17-Snapshot"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2383667,
+        "projectId": 317756,
+        "packageFingerprintId": 694066747,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3084823,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "vanilla-hammers-3.1.2-1.17.jar"
+      },
+      "dateInstalled": "2021-08-18T15:10:22.4764786Z",
+      "dateUpdated": "2021-08-18T15:10:22.4764786Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 453763,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -1130,8 +1130,8 @@
         "isServerPack": false,
         "FileNameOnDisk": "FreshAnimations_v1.3.1_Addons.zip"
       },
-      "dateInstalled": "2021-08-18T15:11:12.1052184Z",
-      "dateUpdated": "2021-08-18T15:11:12.1052184Z",
+      "dateInstalled": "2021-08-18T15:19:51.3773639Z",
+      "dateUpdated": "2021-08-18T15:19:51.3773639Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
@@ -1142,7 +1142,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 248787,
@@ -1270,7 +1270,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 419697,
@@ -1561,7 +1561,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 448233,
@@ -1835,7 +1835,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 412225,
@@ -1968,7 +1968,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 392559,
@@ -2331,7 +2331,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 317780,
@@ -2787,7 +2787,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 480684,
@@ -2945,7 +2945,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 361579,
@@ -3210,7 +3210,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 473492,
@@ -3535,7 +3535,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 428912,
@@ -3900,6 +3900,170 @@
       "installedTargets": null
     },
     {
+      "addonID": 317856,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3382396,
+        "displayName": "[1.17.0/1] 7.0.0 alpha 34",
+        "fileName": "expandedstorage-7.0.0-alpha.33+1.17.jar",
+        "fileDate": "2021-07-09T12:41:13.473Z",
+        "fileLength": 370717,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3382/396/expandedstorage-7.0.0-alpha.33+1.17.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 68423938,
+            "addonId": 324564,
+            "type": 2,
+            "fileId": 3382396
+          },
+          {
+            "id": 68423942,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3382396
+          },
+          {
+            "id": 68423940,
+            "addonId": 310111,
+            "type": 2,
+            "fileId": 3382396
+          },
+          {
+            "id": 68423939,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 3382396
+          },
+          {
+            "id": 68423941,
+            "addonId": 309338,
+            "type": 2,
+            "fileId": 3382396
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2700673212,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2857769115,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "expandedstorage-fabric-refmap.json",
+            "fingerprint": 916488737,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "expandedstorage.accessWidener",
+            "fingerprint": 2831320315,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "expandedstorage_base.mixins.json",
+            "fingerprint": 1034772889,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "expandedstorage_chest.mixins.json",
+            "fingerprint": 2568663091,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 4205720330,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 3896563054,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ninjaphenix",
+            "fingerprint": 1525888420,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1779105413,
+        "gameVersion": [
+          "1.17.1",
+          "1.17",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1"
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+            "gameVersionName": "1.17"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2400862,
+        "projectId": 317856,
+        "packageFingerprintId": 701841247,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3116920,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "expandedstorage-7.0.0-alpha.33+1.17.jar"
+      },
+      "dateInstalled": "2021-08-18T15:19:52.9087205Z",
+      "dateUpdated": "2021-08-18T15:19:52.9087205Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 310111,
       "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
       "installedFile": {
@@ -4068,7 +4232,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 404578,
@@ -4183,7 +4347,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 353890,
@@ -4436,7 +4600,140 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 393236,
+      "gameInstanceID": "5589c20b-e121-4492-be29-664fb4eeb43c",
+      "installedFile": {
+        "id": 3362818,
+        "displayName": "Patchouli-1.17-54-FABRIC.jar",
+        "fileName": "Patchouli-1.17-54-FABRIC.jar",
+        "fileDate": "2021-06-24T03:04:07.33Z",
+        "fileLength": 831220,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3362/818/Patchouli-1.17-54-FABRIC.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3078915052,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 2635171610,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2186178566,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 141162411,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1749632297,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3999550671,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 4171053254,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "patchouli.mixins.json",
+            "fingerprint": 2240496502,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Patchouli-refmap.json",
+            "fingerprint": 3878756831,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vazkii",
+            "fingerprint": 956450462,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 226506492,
+        "gameVersion": [
+          "1.17.1",
+          "1.17",
+          "Fabric"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1"
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000017",
+            "gameVersion": "1.17",
+            "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+            "gameVersionName": "1.17"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2376457,
+        "projectId": 393236,
+        "packageFingerprintId": 690593050,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3071014,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Patchouli-1.17-54-FABRIC.jar"
+      },
+      "dateInstalled": "2021-08-18T15:19:52.9067478Z",
+      "dateUpdated": "2021-08-18T15:19:52.9067478Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 444498,
@@ -4877,7 +5174,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 320967,
@@ -5047,7 +5344,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 319582,
@@ -5181,7 +5478,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 415438,
@@ -5315,7 +5612,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 349239,
@@ -5670,7 +5967,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 408801,
@@ -6128,7 +6425,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 317121,
@@ -7005,7 +7302,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 436799,
@@ -7139,7 +7436,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 306612,
@@ -7472,7 +7769,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     }
   ],
   "isMigrated": false,
