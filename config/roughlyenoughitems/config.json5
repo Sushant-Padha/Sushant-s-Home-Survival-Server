@@ -1,6 +1,9 @@
 {
 	"basics": {
-		"favorites": [],
+		"favorites": [
+			"{data:{Count:1b,id:\"minecraft:coal_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:waxed_exposed_cut_copper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
@@ -115,7 +118,7 @@
 		}
 	},
 	"appearance": {
-		"recipeScreenType": "UNSET",
+		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
 		"theme": "LIGHT",
 		"layout": {

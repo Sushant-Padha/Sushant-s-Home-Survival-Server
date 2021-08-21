@@ -12,11 +12,11 @@ caveMaps:2
 caveZoom:1
 showPlayers:true
 showHostile:true
-showMobs:true
+showMobs:false
 showItems:true
 showOther:true
 showOtherTeam:true
-showTamed:true
+showTamed:false
 showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
@@ -24,7 +24,7 @@ deathpoints:true
 oldDeathpoints:false
 distance:1
 showCoords:true
-lockNorth:false
+lockNorth:true
 zoom:0
 minimapSize:0
 entityAmount:1
@@ -90,11 +90,11 @@ showTime:1
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
-centeredEnlarged:false
-zoomedOutEnlarged:false
+centeredEnlarged:true
+zoomedOutEnlarged:true
 alwaysEntityNametags:false
 minimapTextAlign:0
-showAngles:false
+showAngles:true
 waypointsMutualEdit:true
 compassLocation:1
 compassScale:1
