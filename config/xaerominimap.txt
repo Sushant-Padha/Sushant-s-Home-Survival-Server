@@ -7,12 +7,12 @@ differentiateByServerAddress:true
 debugEntityIcons:false
 debugEntityVariantIds:false
 #INGAME SETTINGS (DO NOT EDIT!)
-minimap:true
+minimap:false
 caveMaps:2
 caveZoom:1
 showPlayers:true
 showHostile:true
-showMobs:false
+showMobs:true
 showItems:true
 showOther:true
 showOtherTeam:true
