@@ -10,9 +10,9 @@ config/AdvancedCompass/waypoints/localhost/*
 !mods/
 !mods/*
 
-!config/
-!config/*
-!config/**/*
+config/
+config/*
+config/**/*
 
 !resourcepacks/
 !resourcepacks/*

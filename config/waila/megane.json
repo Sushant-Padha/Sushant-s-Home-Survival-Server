@@ -35,7 +35,8 @@
     "enabled": true,
     "expandWhenSneak": false,
     "colors": {
-      "megane:default": 855385
+      "megane:default": 855385,
+      "minecraft:lava": 13916690
     },
     "blacklist": []
   },
